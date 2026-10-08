@@ -4384,13 +4384,17 @@
       "name": "9月20日.rar",
       "bytes": 889924675,
       "sha256": "754174ea7fa24299ac8b182e8e1b0f4e8c8d2e28c08eb909493198e84b22d512",
-      "mtime_ns": 1791371850267283800
+      "mtime_ns": 1791371850267283800,
+      "asset_name": "9.20.rar",
+      "download_url": "https://github.com/G1ow9711/Dataset/releases/download/dataset-20261008/9.20.rar"
     },
     {
       "name": "标注数据20261004.zip",
       "bytes": 2037074114,
       "sha256": "64181d4d216fdc8b9b90dfeba9727e0ba3b5d69ef58385da6b79dbb91c98ddeb",
-      "mtime_ns": 1791090749578546200
+      "mtime_ns": 1791090749578546200,
+      "asset_name": "20261004.zip",
+      "download_url": "https://github.com/G1ow9711/Dataset/releases/download/dataset-20261008/20261004.zip"
     },
     {
       "name": "焊缝导出数据释义.pdf",
