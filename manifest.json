@@ -1,0 +1,4406 @@
+{
+  "schema_version": 1,
+  "repository": "G1ow9711/Dataset",
+  "release_tag": "dataset-20261008",
+  "snapshot_date": "2026-10-08",
+  "files": [
+    {
+      "path": "9月20日/161-LB18A/161-LB18A-0920-lipeng.png",
+      "bytes": 118262,
+      "sha256": "3c36dc742e2feadf26817fb36191bf589f01e43c9b40feb5ac7915bcd2a1c83d",
+      "crc32": "6f8442a7"
+    },
+    {
+      "path": "9月20日/161-LB18A/161-LB18A-0920-lipeng_weld.cbf",
+      "bytes": 848888,
+      "sha256": "61b98109ece46ea2d318338cd13e0fe844822617821cbb3ba6da2591e84b4452",
+      "crc32": "fdfc9ca4"
+    },
+    {
+      "path": "9月20日/161-LB18A/161-LB18A-0920-lipeng_weld.xlsx",
+      "bytes": 55404,
+      "sha256": "97df3914aa7eb93dd6dced1651cc6733e8fa5a74c4385f95dc882a579c15c482",
+      "crc32": "5dd0092f"
+    },
+    {
+      "path": "9月20日/161-LB18A/161-LB18A-0920-lipeng_weld.xlsx.jackc-review.json",
+      "bytes": 126185,
+      "sha256": "d2de6a0cbdff2b2d70030f5d4fb88519b694d1b62196c999e2f93e98da6aa465",
+      "crc32": "1d822683"
+    },
+    {
+      "path": "9月20日/161-LB18A/161-LB18A-0920-lipeng_weld_overview.ply",
+      "bytes": 139190142,
+      "sha256": "1db19a42aa17e000136a0372fd3b9bfd588d8744bdbb28bf6726c9ac35b65bcb",
+      "crc32": "d438025b"
+    },
+    {
+      "path": "9月20日/161-LB18A/161-LB18A-0920-lipeng_weld_welds.json",
+      "bytes": 7093554,
+      "sha256": "823c585c779bb2cef38b51f3a4f7c1ba1266c695d9126a3487f982d9827eced9",
+      "crc32": "a21ce001"
+    },
+    {
+      "path": "9月20日/161-LB18A/161-LB18A-0920-lipeng_weld_welds.ply",
+      "bytes": 8040499,
+      "sha256": "2e5e313d23f70f027e770277643a6f3442c0ec57ba77cd5907e85f556138e57f",
+      "crc32": "68026f8d"
+    },
+    {
+      "path": "9月20日/161-LB18A/161-LB18A-0920-lipeng_weld_workpiece.ply",
+      "bytes": 131149873,
+      "sha256": "c5ac9e72940bef27ecd3270e3d73cc47fd41fcc01a6e32ee30325a1deb823866",
+      "crc32": "d3c1eb36"
+    },
+    {
+      "path": "9月20日/161-LB18A/161-LB18A.stp",
+      "bytes": 1632223,
+      "sha256": "41e22ad3a3bf9aca9ac350304784a8bce49d0ac16440f70de0e248901d184b5c",
+      "crc32": "46290a17"
+    },
+    {
+      "path": "9月20日/161-LB18A/_161-LB18A_GW1.pcd",
+      "bytes": 966030,
+      "sha256": "519af3b85d7ecb9f4da58f3eb08b4f3bd5683849fc1f7bd9cd1d198b330daf8c",
+      "crc32": "5f3a3eb1"
+    },
+    {
+      "path": "9月20日/161-LB18A/_161-LB18A_GW1_AllFaces.pcd",
+      "bytes": 13685125,
+      "sha256": "9c1ef55366a2d61811c77dbcb09975293c49bf4ce73fee888546455188406046",
+      "crc32": "4c1f01f2"
+    },
+    {
+      "path": "9月20日/203-TT1A/203-TT1A-0920-朱亚桐_weld.cbf",
+      "bytes": 546016,
+      "sha256": "d1da7f24d84d06bea6216497bcf20053717adc4b01218382e024a3948f7ebe5f",
+      "crc32": "86991ad8"
+    },
+    {
+      "path": "9月20日/203-TT1A/203-TT1A-0920-朱亚桐_weld.png",
+      "bytes": 55176,
+      "sha256": "0e37bcc97fd00c239dda19e555bb6cfa20eb794fcc62c958372f47c26905afba",
+      "crc32": "fb06c09c"
+    },
+    {
+      "path": "9月20日/203-TT1A/203-TT1A-0920-朱亚桐_weld.xlsx",
+      "bytes": 43341,
+      "sha256": "c5a53511cee5e7fa8efb156b8d4a1ec2af616c33e1410bbe3b6db64b50944402",
+      "crc32": "6113f614"
+    },
+    {
+      "path": "9月20日/203-TT1A/203-TT1A-0920-朱亚桐_weld_overview.ply",
+      "bytes": 92997174,
+      "sha256": "1c9fd55e6e11b6c253992690f28b6ca1ce8029bd3a2c678663374bfd1eb4afe9",
+      "crc32": "46843488"
+    },
+    {
+      "path": "9月20日/203-TT1A/203-TT1A-0920-朱亚桐_weld_welds.json",
+      "bytes": 14812115,
+      "sha256": "d500b379320ff278cad4abc1362825e7188a8bcbb6c0ebd06376df67efa33907",
+      "crc32": "33b4f8c7"
+    },
+    {
+      "path": "9月20日/203-TT1A/203-TT1A-0920-朱亚桐_weld_welds.ply",
+      "bytes": 17047529,
+      "sha256": "014c00dac4cfac89f566a673ca5ab492421fd73c8274fde72f0e2567a0c1dd2f",
+      "crc32": "5da2fbf9"
+    },
+    {
+      "path": "9月20日/203-TT1A/203-TT1A-0920-朱亚桐_weld_workpiece.ply",
+      "bytes": 75949875,
+      "sha256": "26a93ab91ec3049120ede9f331c32c0cc7a6adcbb759d4f34ffd4b560d57c8be",
+      "crc32": "af974222"
+    },
+    {
+      "path": "9月20日/203-TT1A/203-TT1A.stp",
+      "bytes": 1456658,
+      "sha256": "5071a9f0bf842c50ca4fc81b8c86fd8ffbf8a2326e89e6ac5373b315e4c2faf4",
+      "crc32": "1f1180ce"
+    },
+    {
+      "path": "9月20日/203-TT1A/_203-TT1A_GW1.pcd",
+      "bytes": 2686226,
+      "sha256": "ab3bd13d76004a5eb9458cc3665d41ec4f6ff15d11efcc76016ce1ae0a26400c",
+      "crc32": "ef4848bf"
+    },
+    {
+      "path": "9月20日/203-TT1A/_203-TT1A_GW1_AllFaces.pcd",
+      "bytes": 42928586,
+      "sha256": "3a7befa7306b9a94fd19fb4950d2bc1ab8008dbf644a5ecc78cddd8c1ba77eba",
+      "crc32": "33808ebf"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng.png",
+      "bytes": 27562,
+      "sha256": "8cb70fbdf09d224fb4190561fb4f243dcde1869454aba92a5e0255cc750e1fec",
+      "crc32": "4f0acc0e"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld.cbf",
+      "bytes": 114944,
+      "sha256": "c86bf8dbd388a7d01c221e1818b301139c7e952891dc0e1d2da1d78b66badc16",
+      "crc32": "fe32701d"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld.xlsx",
+      "bytes": 15279,
+      "sha256": "09cd5ab09755b38eb5b906c902a5cc8cb835d3d9b277c90102f90eeaf8ab128b",
+      "crc32": "2c610571"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld.xlsx.20260922-164425-349.5e51df71.bak",
+      "bytes": 15258,
+      "sha256": "7cddab8483bea585bac38f5f879da1f0a55a9543e02ee1a8926fd9b5b76bb9f1",
+      "crc32": "03cb17b9"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld.xlsx.20260922-164630-794.d4439ac4.bak",
+      "bytes": 15307,
+      "sha256": "c3127a1df92d1afc3f5ef54a11c31d46308aae1a5330a5565811559e00c4a728",
+      "crc32": "3b995e2f"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld.xlsx.20260922-165507-621.00c059fd.bak",
+      "bytes": 15296,
+      "sha256": "ed8cfb83fcbdbc8182c01a92bda1bbde5c9301756d5aa9d4551ed21e64323187",
+      "crc32": "21c355c7"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld.xlsx.jackc-review.json",
+      "bytes": 159222,
+      "sha256": "b46bd0c2a0f7feb0d76b0cd772d6a8db4e7ce1dd83e626e38704e3cdb2afd9c4",
+      "crc32": "e4ddc3e9"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld_overview.ply",
+      "bytes": 62343351,
+      "sha256": "402f4f76244f431cc1263c089b07c20fd12604cd6842fe6bd9c4bb360a45ce13",
+      "crc32": "c101a117"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld_welds.json",
+      "bytes": 9948071,
+      "sha256": "26802922bf67b695b8a8c8e25df3bd98e7f1bea28e21a6d25e9e61b5437028b2",
+      "crc32": "73de4d47"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld_welds.ply",
+      "bytes": 11370431,
+      "sha256": "6f21ec02136cf5e4ef07e5b6869f7fd34e3f6b6095d6e67e477f71fdd8d7b605",
+      "crc32": "c716dabe"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A-0922-lipeng_weld_workpiece.ply",
+      "bytes": 50973150,
+      "sha256": "b76164fb563f17b0ae18cb5d27f9ce87cca00a5639f8447790b0a8056cb154a4",
+      "crc32": "c006faed"
+    },
+    {
+      "path": "9月20日/204-BS1A/204-BS1A.stp",
+      "bytes": 930321,
+      "sha256": "30d8701b698a193eac180f29d945ee46ff6dc7dbd40fa06961d5266aa9ae5ccc",
+      "crc32": "0ce7ff08"
+    },
+    {
+      "path": "9月20日/204-BS1A/_204-BS1A_GW1.pcd",
+      "bytes": 1468250,
+      "sha256": "9d6edd0324e09c77d3aa62d7cd8c7b0f356b546c2d74ea367794c07f6d8b78df",
+      "crc32": "3001b077"
+    },
+    {
+      "path": "9月20日/204-BS1A/_204-BS1A_GW1_AllFaces.pcd",
+      "bytes": 21458052,
+      "sha256": "5b3126f8726c74bc6d927751fc0b0888177427e8f779bf4e7313d25a9c23bf85",
+      "crc32": "115a692a"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A-0920-李欣.png",
+      "bytes": 71351,
+      "sha256": "17cad7321ea1709ed054ec55b8e0f5950438697aeb1a550d803fd3543507aa66",
+      "crc32": "f5d4077d"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A-0920-李欣_weld.cbf",
+      "bytes": 587580,
+      "sha256": "d561ce09d980bafe6d82c243b90bbda50d247d2c676ef6c00859dddcc735ce42",
+      "crc32": "e2cc667b"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A-0920-李欣_weld.xlsx",
+      "bytes": 45233,
+      "sha256": "1ea87a7ddc9693751261ddca650d1b246c6657e8cf9aec82a192f514de679e60",
+      "crc32": "9458662f"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A-0920-李欣_weld.xlsx.jackc-review.json",
+      "bytes": 677357,
+      "sha256": "cd844c1269bcb25892b81289d73fd8936f2849aa9f8efcac6c9dc47af59516b4",
+      "crc32": "c18955f8"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A-0920-李欣_weld_overview.ply",
+      "bytes": 94374747,
+      "sha256": "729c0f45d01e4485de78abf3cf8272539b6f5ff9c20d2eb4866dd16a84b877fa",
+      "crc32": "34f47ce7"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A-0920-李欣_weld_welds.json",
+      "bytes": 14777449,
+      "sha256": "202e4a0a74e99a1cc5c6ec7b1f7f3600defafeb64886920dcf8728c2ddbfe0b6",
+      "crc32": "a06c115d"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A-0920-李欣_weld_welds.ply",
+      "bytes": 17006044,
+      "sha256": "4fc1ea6f63edb30acaa83522cc866366289c4d8d7be780f4f790d515e36d2deb",
+      "crc32": "4a69f10e"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A-0920-李欣_weld_workpiece.ply",
+      "bytes": 77368933,
+      "sha256": "61ce87c83b1f0543ba4908f05877346995520405deb19eda5158e3c5f7809c1b",
+      "crc32": "09c0925c"
+    },
+    {
+      "path": "9月20日/206-TT1A/206-TT1A.stp",
+      "bytes": 1536506,
+      "sha256": "f258c8be8b66585710140959896d145cbe97b0a8ae0796eee741219b3f525b15",
+      "crc32": "29bd592e"
+    },
+    {
+      "path": "9月20日/206-TT1A/_206-TT1A_GW1.pcd",
+      "bytes": 2705511,
+      "sha256": "2738d020d24fe1a47cb2f2b541d0ad52284e613f52ebe74116a26da50d75d489",
+      "crc32": "1c9ec4f4"
+    },
+    {
+      "path": "9月20日/206-TT1A/_206-TT1A_GW1_AllFaces.pcd",
+      "bytes": 41967707,
+      "sha256": "e92ce6196d1e62aa3aca04ae2422e8eb660f9e046d35cd4e192bd3aae78f4946",
+      "crc32": "6a49c7fa"
+    },
+    {
+      "path": "9月20日/207-FR79M/207-FR79M-0921-朱亚桐.png",
+      "bytes": 23290,
+      "sha256": "94c217f759c9450baec39b5bcbe24afc7fc02f17cfd344c94bcd1edfbd03f901",
+      "crc32": "ed7c19c2"
+    },
+    {
+      "path": "9月20日/207-FR79M/207-FR79M-0921-朱亚桐_weld.cbf",
+      "bytes": 149532,
+      "sha256": "fc8e169afc381e468d504d7d56d06acec2be11c2c704a2bc25d6ebfbfeab241a",
+      "crc32": "85dab4ed"
+    },
+    {
+      "path": "9月20日/207-FR79M/207-FR79M-0921-朱亚桐_weld.xlsx",
+      "bytes": 21355,
+      "sha256": "60879d8587185073bfc8bb440f4ddba497305ec67e23e79314199b001bbda607",
+      "crc32": "5c1257c9"
+    },
+    {
+      "path": "9月20日/207-FR79M/207-FR79M-0921-朱亚桐_weld_overview.ply",
+      "bytes": 49133202,
+      "sha256": "b1c76b30ba278ca12cbdaac932657056a4c0977892be6c40129217b83ebb80e9",
+      "crc32": "c4efad6b"
+    },
+    {
+      "path": "9月20日/207-FR79M/207-FR79M-0921-朱亚桐_weld_welds.json",
+      "bytes": 2443519,
+      "sha256": "8e1b17aec2a0ae8077a023f9f0ee38d385c99051b219ee54b842d492ceaa30b4",
+      "crc32": "135b5eed"
+    },
+    {
+      "path": "9月20日/207-FR79M/207-FR79M-0921-朱亚桐_weld_welds.ply",
+      "bytes": 2779573,
+      "sha256": "7018d7fe5a1b3ee26a14277c2214c0b9a6c3295944a07ae138bf492c8c6de365",
+      "crc32": "ee64db24"
+    },
+    {
+      "path": "9月20日/207-FR79M/207-FR79M-0921-朱亚桐_weld_workpiece.ply",
+      "bytes": 46353858,
+      "sha256": "ee07d2ccb917c06c7b4d59f9e5b2b52b18a621c8e937a5b94ff62db329c371b1",
+      "crc32": "0d464c8d"
+    },
+    {
+      "path": "9月20日/207-FR79M/207-FR79M.stp",
+      "bytes": 1436421,
+      "sha256": "982640ce4a17fe56b79126d4701f8b9fc35f845c6f3a21b73b7501b52b7c8c57",
+      "crc32": "39564799"
+    },
+    {
+      "path": "9月20日/207-FR79M/_207-FR79M_GW1.pcd",
+      "bytes": 242034,
+      "sha256": "14d6c77fe0f74dfe26d8f68073a3638842f1dcd3d5c5dabdf41b484fb453edfc",
+      "crc32": "81ecd129"
+    },
+    {
+      "path": "9月20日/207-FR79M/_207-FR79M_GW1_AllFaces.pcd",
+      "bytes": 10345652,
+      "sha256": "ba1d1afb3b6956535950e04b30610ddab9d4d19e1ed629d1366bbc6be2a359f5",
+      "crc32": "c8902bf6"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng.png",
+      "bytes": 34760,
+      "sha256": "e81e38fade19fbaa4f5ac40a1e2fb8fdfb87d54b48ba8ea3436863cc0328ad93",
+      "crc32": "4124bb33"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld.cbf",
+      "bytes": 159824,
+      "sha256": "9e7c2babd88b0c7a637a5b3e10ec4611182e307c698893396806eb567d1f633c",
+      "crc32": "2072883c"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld.xlsx",
+      "bytes": 21600,
+      "sha256": "2c63d5c1e9ae0fd5a471b6fe34f1cc3ee59cebdc07d35d7fdfb53ad90ba528c6",
+      "crc32": "b30eec45"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld.xlsx.20260921-194953-268.2d2fe7ba.bak",
+      "bytes": 16554,
+      "sha256": "bc4cceda8fced7232d7a93122791ca7d6d2c6a98a93c0c547612df309da4ecc8",
+      "crc32": "5943d72b"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld.xlsx.20260921-195207-879.bbbeb915.bak",
+      "bytes": 16553,
+      "sha256": "f43aabae8b5036b9756802f5cb46e1cc306e9b23ff491bfc8dfa6f826d311d41",
+      "crc32": "80d5b7b6"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld.xlsx.jackc-review.json",
+      "bytes": 135498,
+      "sha256": "583ce1d6aa9022bd9a374caf3f473e758113574cf57eaf23b338b7d125c287e9",
+      "crc32": "d4315a60"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld_overview.ply",
+      "bytes": 47052823,
+      "sha256": "8f53019c9b6c75a8df09351f37ac6e67a90b62ea6462760f7615669dfd06e454",
+      "crc32": "99b08bd4"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld_welds.json",
+      "bytes": 1920213,
+      "sha256": "3fb82acde1d5046f9e75f5aa113977d3dfeab11e8e4145304b3a47c5940f6e54",
+      "crc32": "044136cb"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld_welds.ply",
+      "bytes": 2210280,
+      "sha256": "d30ec195e511df359d7ca57ecf3c0b341d427bcc303ab67a21870f627b270618",
+      "crc32": "5b730fcc"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A-0921-lipeng_weld_workpiece.ply",
+      "bytes": 44842772,
+      "sha256": "0910fa24270fee0b5a91e4a627105b70b5e63b8200680fc57ed08946ecdb3004",
+      "crc32": "89d31fde"
+    },
+    {
+      "path": "9月20日/207-FR80A/207-FR80A.stp",
+      "bytes": 1612170,
+      "sha256": "1b53c18ee841abedbcd3ee8ad5557456e0d16f15723402ae6e7356d6796b03bc",
+      "crc32": "3c1a8f23"
+    },
+    {
+      "path": "9月20日/207-FR80A/_207-FR80A_GW1.pcd",
+      "bytes": 253678,
+      "sha256": "17374daddca699da8b80d9b7f7747efaede416d33d14db2809a90cc0de916897",
+      "crc32": "89e29426"
+    },
+    {
+      "path": "9月20日/207-FR80A/_207-FR80A_GW1_AllFaces.pcd",
+      "bytes": 10005592,
+      "sha256": "27e65dd085f2ef212b87bb4c2755b01577d464c7e616579e68fc821f60211512",
+      "crc32": "1605f135"
+    },
+    {
+      "path": "9月20日/222-BX2A/222-BX2A-0920-WQ_weld.cbf",
+      "bytes": 15112,
+      "sha256": "92db62eef986824633a9d36175c766869d216d9ed3cb78fe38ee58d8745c2b95",
+      "crc32": "86f88947"
+    },
+    {
+      "path": "9月20日/222-BX2A/222-BX2A-0920-WQ_weld.xlsx",
+      "bytes": 12462,
+      "sha256": "01726538149361af9b4ab8a09f0b4847e06a4d1463a8540999c2fc20775cedce",
+      "crc32": "e5cb4867"
+    },
+    {
+      "path": "9月20日/222-BX2A/222-BX2A-0920-WQ_weld_overview.ply",
+      "bytes": 39087534,
+      "sha256": "cadff51685e3792ae2bb40b8570353518929c98e8ecdf00a26e2c03a596e1674",
+      "crc32": "ac5c3dd8"
+    },
+    {
+      "path": "9月20日/222-BX2A/222-BX2A-0920-WQ_weld_welds.ply",
+      "bytes": 138770,
+      "sha256": "184d8c0552cde6ce0c9f2492423a4e3e7e61407bad6224d63f447aec95b08a1d",
+      "crc32": "06d1e72b"
+    },
+    {
+      "path": "9月20日/222-BX2A/222-BX2A-0920-WQ_weld_workpiece.ply",
+      "bytes": 38948992,
+      "sha256": "1576758829d6be10dc838ad621690136cf9da68b689f8969f834e7a851b779af",
+      "crc32": "4ad9bae3"
+    },
+    {
+      "path": "9月20日/222-BX2A/222-BX2A.png",
+      "bytes": 27741,
+      "sha256": "42179d50c8fdc3af9bbfd5b01b7f69bb2a96a14c9b00a598e788a8f1d7852536",
+      "crc32": "ed6c60e0"
+    },
+    {
+      "path": "9月20日/222-BX2A/222-BX2A.stp",
+      "bytes": 69213,
+      "sha256": "c6c3d6191f6b8ba80c1854333018c0ef9500f6070110da7d7c8bef771fbf5602",
+      "crc32": "57fd4019"
+    },
+    {
+      "path": "9月20日/222-BX2A/_222-BX2A_GW1.pcd",
+      "bytes": 624639,
+      "sha256": "fb3de840ee7f5a80ed8d59ab5b599d1882b21d482a16b07f1ea24f39cda84d39",
+      "crc32": "0c805feb"
+    },
+    {
+      "path": "9月20日/222-BX2A/_222-BX2A_GW1_AllFaces.pcd",
+      "bytes": 40797067,
+      "sha256": "e801177e590452baaaaf6e93665d5f8a30898b35fe1a6b67f8ca886af0160416",
+      "crc32": "23437818"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A-0922-李欣.png",
+      "bytes": 57761,
+      "sha256": "dd64ab8a5126cafadde80006849a97003824d2a603595fcd1a9769bfb71a9d81",
+      "crc32": "844f37c2"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A-0922-李欣_weld.cbf",
+      "bytes": 661496,
+      "sha256": "ae9e217c7e50ce8301267b68a5aaa98df48406877625521e08a12c65b20fa479",
+      "crc32": "489a3c45"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A-0922-李欣_weld.xlsx",
+      "bytes": 48982,
+      "sha256": "35483b391236cb1f33f329866c6e86d065739dce0cc6ca04d085c0c990f1628b",
+      "crc32": "100e9240"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A-0922-李欣_weld.xlsx.jackc-review.json",
+      "bytes": 831549,
+      "sha256": "c62e4ee23c5112b562bd418f27a9278096b5893cf69fad5e2ff749cbcb9df8bb",
+      "crc32": "ce533899"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A-0922-李欣_weld_overview.ply",
+      "bytes": 127747016,
+      "sha256": "5281b1bbcebba9d2b43225cb7d9ae26c2d4d0b2349c6fbd48626381f1c54e65b",
+      "crc32": "0378fc31"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A-0922-李欣_weld_welds.json",
+      "bytes": 22209663,
+      "sha256": "feef31bee883729f6965ebf949961b97065d8fbbe42d02524740f66c2728977f",
+      "crc32": "05a6cb1c"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A-0922-李欣_weld_welds.ply",
+      "bytes": 25307903,
+      "sha256": "d9d32fa05f9659f0c5d7c75ab0d54bbac46bd905da497c0a6d380439f78cd6de",
+      "crc32": "a08aabf4"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A-0922-李欣_weld_workpiece.ply",
+      "bytes": 102439343,
+      "sha256": "9adcceb68ba0e614056de82783e9739157920f7865504030e09989a73674a68d",
+      "crc32": "4458616e"
+    },
+    {
+      "path": "9月20日/222-TT1A/222-TT1A.stp",
+      "bytes": 1603824,
+      "sha256": "a0769e7b4598ca19848f9240802e3582b8f6f593204adac496a9423512420433",
+      "crc32": "08fa2741"
+    },
+    {
+      "path": "9月20日/222-TT1A/_222-TT1A_GW1.pcd",
+      "bytes": 3069338,
+      "sha256": "68a9050e80413362fc4d71e30181046789c19cbe7c355dd70a0dd7f6cf9d5ce7",
+      "crc32": "fb537bea"
+    },
+    {
+      "path": "9月20日/222-TT1A/_222-TT1A_GW1_AllFaces.pcd",
+      "bytes": 42329897,
+      "sha256": "7be339d56eaba16b33136359d0b2e024130957fc35c7e33e8c9788406d9b39c1",
+      "crc32": "86c9b243"
+    },
+    {
+      "path": "9月20日/223-FR83A/223-FR83A-0920-WQ_weld.cbf",
+      "bytes": 7996,
+      "sha256": "4823714e24f6ce5aa4b2acb1491d1f1e56d06ff685be9f3ce31ae518712a0fb7",
+      "crc32": "01df1bc2"
+    },
+    {
+      "path": "9月20日/223-FR83A/223-FR83A-0920-WQ_weld.xlsx",
+      "bytes": 11936,
+      "sha256": "7695bea276ef3099bab5c218e2f3f26ece5b433295000beeb70dcae7b4fb142b",
+      "crc32": "9165d3f9"
+    },
+    {
+      "path": "9月20日/223-FR83A/223-FR83A-0920-WQ_weld_overview.ply",
+      "bytes": 54365097,
+      "sha256": "8c18d224ca561f7ee845e34a291e652b451f51274af7d4577248155f40c9656a",
+      "crc32": "f882fe47"
+    },
+    {
+      "path": "9月20日/223-FR83A/223-FR83A-0920-WQ_weld_welds.ply",
+      "bytes": 76849,
+      "sha256": "48c509851c2d69f77881f04694eb6ce097621d9e771701fda77519684a5ad131",
+      "crc32": "398364b8"
+    },
+    {
+      "path": "9月20日/223-FR83A/223-FR83A-0920-WQ_weld_workpiece.ply",
+      "bytes": 54288476,
+      "sha256": "3bcb8c48e29308cebec7aa85d9be23f48eb9bea21f1a5fc0b76f1d0a6cc93a2b",
+      "crc32": "4de5074e"
+    },
+    {
+      "path": "9月20日/223-FR83A/223-FR83A.png",
+      "bytes": 22592,
+      "sha256": "67663266821de571bb6d58faf55e9c3092836aff1974d11a35148f499b4659ce",
+      "crc32": "6cde7e5c"
+    },
+    {
+      "path": "9月20日/223-FR83A/223-FR83A.stp",
+      "bytes": 67741,
+      "sha256": "6dcf72bab83e8be8f179855e10949ad70270b9cbfeb5f73847056e70f59af416",
+      "crc32": "85851152"
+    },
+    {
+      "path": "9月20日/223-FR83A/_223-FR83A_GW1.pcd",
+      "bytes": 79234,
+      "sha256": "7628b79153fc7c5c0b4ee98d2e450f67eb6a4ca71c0b105ee22d550f07ff3b47",
+      "crc32": "b56d139c"
+    },
+    {
+      "path": "9月20日/223-FR83A/_223-FR83A_GW1_AllFaces.pcd",
+      "bytes": 9324206,
+      "sha256": "58f9a4bf4f5653caace2b670ea7635a2adc828d8301d8978a8225e849282ee4e",
+      "crc32": "6d9f9cbd"
+    },
+    {
+      "path": "9月20日/224-BX1A/224-BX1A-0920-WQ_weld.cbf",
+      "bytes": 7300,
+      "sha256": "cd10775b92495f36b7ad75d0cf06e2f1a9784214709d8460ea706f3778aea763",
+      "crc32": "de50b68c"
+    },
+    {
+      "path": "9月20日/224-BX1A/224-BX1A-0920-WQ_weld.xlsx",
+      "bytes": 11728,
+      "sha256": "f50a58c63fe291bbfd463208707a5c9b95b5c5893023e954534929b5ccd00485",
+      "crc32": "0a05a9c9"
+    },
+    {
+      "path": "9月20日/224-BX1A/224-BX1A-0920-WQ_weld_overview.ply",
+      "bytes": 64399030,
+      "sha256": "dc8640cd5b4e1478d5531dedd57d7c9907f4e3f79aeae6fc7a0b712ee28056a3",
+      "crc32": "eac8958d"
+    },
+    {
+      "path": "9月20日/224-BX1A/224-BX1A-0920-WQ_weld_welds.ply",
+      "bytes": 77106,
+      "sha256": "9264ada03750bb0b4c048b4045773d04d821745a0f34abee58383f613e7b8c49",
+      "crc32": "e1020c37"
+    },
+    {
+      "path": "9月20日/224-BX1A/224-BX1A-0920-WQ_weld_workpiece.ply",
+      "bytes": 64322152,
+      "sha256": "03a9350ffd50bb784e6aaa82cb6a30ef039732935e85d3b42a5f78a1a8341877",
+      "crc32": "4f89556a"
+    },
+    {
+      "path": "9月20日/224-BX1A/224-BX1A.png",
+      "bytes": 17860,
+      "sha256": "2b7abe08a96d2fd8453ea2e9a5810e02329aaaaa5cf6f3e424b3c56a7c12937c",
+      "crc32": "575d8976"
+    },
+    {
+      "path": "9月20日/224-BX1A/224-BX1A.stp",
+      "bytes": 48905,
+      "sha256": "9074ce3cc87e946aeebea19903a99e52de052d226bfca8a50a0b3b047d7d29ba",
+      "crc32": "75c0f08a"
+    },
+    {
+      "path": "9月20日/224-BX1A/_224-BX1A_GW1.pcd",
+      "bytes": 257120,
+      "sha256": "33c3e6876a04988a4aac6c7e7254a667f1a641ae860b296368395bbb1ad7ae17",
+      "crc32": "d327ab0f"
+    },
+    {
+      "path": "9月20日/224-BX1A/_224-BX1A_GW1_AllFaces.pcd",
+      "bytes": 14201455,
+      "sha256": "860fd0f4227bf1cd0f75b249f71577b92210a079db6c303157367e3ab1820429",
+      "crc32": "d73d1e48"
+    },
+    {
+      "path": "9月20日/224-FR71A/224-FR71A.stp",
+      "bytes": 1597442,
+      "sha256": "e93ca3f27e48d3a94fea536630be30a92caea8f968757990d24b0da5423f8501",
+      "crc32": "b986d370"
+    },
+    {
+      "path": "9月20日/224-FR71A/224-FR71A_weld.cbf",
+      "bytes": 128756,
+      "sha256": "f49f096112dd29b766a5befc82ae7bc9708f0c1006565741b662f929fabb4584",
+      "crc32": "119055cf"
+    },
+    {
+      "path": "9月20日/224-FR71A/224-FR71A_weld.png",
+      "bytes": 26178,
+      "sha256": "b6a76f7315e8ce1449bec209d04739ff2b401ff7647d3f6bf72d30aa93aba464",
+      "crc32": "927d0d64"
+    },
+    {
+      "path": "9月20日/224-FR71A/224-FR71A_weld.xlsx",
+      "bytes": 21254,
+      "sha256": "8a03ae94eb5295d5dbc798dabf3c0e5eaa77cab5248075d7102a1b3773f2e801",
+      "crc32": "94b42752"
+    },
+    {
+      "path": "9月20日/224-FR71A/224-FR71A_weld_overview.ply",
+      "bytes": 61918392,
+      "sha256": "eaf7f4161ed0df51a7af6801d93701f5551adbedda0122e6b0f0545bde878e1a",
+      "crc32": "cfd9327d"
+    },
+    {
+      "path": "9月20日/224-FR71A/224-FR71A_weld_welds.json",
+      "bytes": 2666854,
+      "sha256": "ade984609aa6e42e0b345a2e7b53a6600f1972e8e16a0f21fb5349fec4b57991",
+      "crc32": "ef09918e"
+    },
+    {
+      "path": "9月20日/224-FR71A/224-FR71A_weld_welds.ply",
+      "bytes": 3029053,
+      "sha256": "4ca52ff1897cffa842fdd99df2f6ca2581ab6581145d2e875ad3d8c243af6444",
+      "crc32": "50dae406"
+    },
+    {
+      "path": "9月20日/224-FR71A/224-FR71A_weld_workpiece.ply",
+      "bytes": 58889568,
+      "sha256": "89eede25b24a29c1e0c7a40100f5b75ef390c328eb4d47db2bf80479ae29b36f",
+      "crc32": "39bbceeb"
+    },
+    {
+      "path": "9月20日/224-FR71A/_224-FR71A_GW1.pcd",
+      "bytes": 242180,
+      "sha256": "da7f66157527a7034947c75bb7625feb761d52eaa3dd96f28997ff80a801e26f",
+      "crc32": "7c541df2"
+    },
+    {
+      "path": "9月20日/224-FR71A/_224-FR71A_GW1_AllFaces.pcd",
+      "bytes": 8774492,
+      "sha256": "77f4b21518640fb8c8c54c91fb12badb384d37300d7797bd31044069924cc685",
+      "crc32": "62434fa1"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1-0922-lipeng.png",
+      "bytes": 15269,
+      "sha256": "46e672b334c6c2c32e45f3e219e0e5da17d3518fe9edf8529cce7c98e5ecdbdf",
+      "crc32": "114f0e09"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1-0922-lipeng_weld.cbf",
+      "bytes": 914480,
+      "sha256": "e35b7b06e9af04471ab47cbf39e81c7c37d40ea5976819c4f892d9cdba445f1c",
+      "crc32": "11db481c"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1-0922-lipeng_weld.xlsx",
+      "bytes": 39973,
+      "sha256": "83f87443bf0fdcc702812867e3a5aaf873c125aefad402239a19dd0842e6a359",
+      "crc32": "195241b9"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1-0922-lipeng_weld.xlsx.jackc-review.json",
+      "bytes": 731978,
+      "sha256": "0d86c02a8cde6442359561ec8455c43e204a9085b51e83697fbd7e163557f937",
+      "crc32": "c3ba90c7"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1-0922-lipeng_weld_overview.ply",
+      "bytes": 77499523,
+      "sha256": "f284569b8f4b9ef2cb7e2ec7b98f645c68fe41d6ad735a8c296ef66dc64e4d00",
+      "crc32": "734a0614"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1-0922-lipeng_weld_welds.json",
+      "bytes": 4232910,
+      "sha256": "72e02ad045e0cef9e67d5952d057995fefc2d8bda02815fe209f39d2681d052d",
+      "crc32": "762d419a"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1-0922-lipeng_weld_welds.ply",
+      "bytes": 4779121,
+      "sha256": "440d4d5043b4d12303ff9327ad204c0745c20b7580a417f250092c039eb56245",
+      "crc32": "c2945a50"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1-0922-lipeng_weld_workpiece.ply",
+      "bytes": 72720631,
+      "sha256": "015cbbb8730d68e88a79a48b8542646452493116ec69f817bdb5563c90be5bc0",
+      "crc32": "5337f3c5"
+    },
+    {
+      "path": "9月20日/224-GR24A1/224-GR24A1.stp",
+      "bytes": 902721,
+      "sha256": "521a4d7689a4296f306104e12c8e263226432ac0757a0baf7931248e0b6353dd",
+      "crc32": "bf43a086"
+    },
+    {
+      "path": "9月20日/224-GR24A1/_224-GR24A1_GW1.pcd",
+      "bytes": 351605,
+      "sha256": "9c84331b6f72537da945b1f0f576a3b1eda5a1220c414ffbe757253f64395b43",
+      "crc32": "7cb52649"
+    },
+    {
+      "path": "9月20日/224-GR24A1/_224-GR24A1_GW1_AllFaces.pcd",
+      "bytes": 4526934,
+      "sha256": "aa358056584f7b431f2e6a855c6ba152feecf7e9c1c8db002f9dbeb12f863331",
+      "crc32": "99c67ff5"
+    },
+    {
+      "path": "9月20日/225-BS1A/225-BS1A-0921-李欣.png",
+      "bytes": 42736,
+      "sha256": "3cf2671bc4e2a95c24d6eb80b0247016832781e59edc5e391c3e1b28297d8f2b",
+      "crc32": "61d0378d"
+    },
+    {
+      "path": "9月20日/225-BS1A/225-BS1A-0921-李欣_weld.cbf",
+      "bytes": 322712,
+      "sha256": "ea2e0885c8806ebf19f097b9ae632ddbd8cc48a1ed4ff92293f96a6bba5471ce",
+      "crc32": "a475f58e"
+    },
+    {
+      "path": "9月20日/225-BS1A/225-BS1A-0921-李欣_weld.xlsx",
+      "bytes": 22331,
+      "sha256": "c6084a5c663f327ad0c68fb136d04754c8c3389ff47258dbaa7b5a04b1566e6f",
+      "crc32": "08874a83"
+    },
+    {
+      "path": "9月20日/225-BS1A/225-BS1A-0921-李欣_weld_overview.ply",
+      "bytes": 88098767,
+      "sha256": "5f659a00a19ff8f77770be51872103b3a2e806b198f3bd4751659f996e07764d",
+      "crc32": "547ea275"
+    },
+    {
+      "path": "9月20日/225-BS1A/225-BS1A-0921-李欣_weld_welds.json",
+      "bytes": 10954477,
+      "sha256": "aefc2e70d7cca928755000c6e51f66706fc353c7249eba975597cf6a4639a2c2",
+      "crc32": "37e311ed"
+    },
+    {
+      "path": "9月20日/225-BS1A/225-BS1A-0921-李欣_weld_welds.ply",
+      "bytes": 12865930,
+      "sha256": "d08d5b34e5727376413edfd9914006ebe34a8408a0dea7b2077715beccb83c7f",
+      "crc32": "af023c12"
+    },
+    {
+      "path": "9月20日/225-BS1A/225-BS1A-0921-李欣_weld_workpiece.ply",
+      "bytes": 75233067,
+      "sha256": "ca4a1416557039b7f59da428023401cc9f1e75616560b2a514ecb292a9bddd34",
+      "crc32": "d0ff60d2"
+    },
+    {
+      "path": "9月20日/225-BS1A/225-BS1A.stp",
+      "bytes": 1514732,
+      "sha256": "970c811f7966037853a49f1a06198cf64cb31de5f6da64e699d74f116ab0d8e4",
+      "crc32": "192fda5e"
+    },
+    {
+      "path": "9月20日/225-BS1A/_225-BS1A_GW1.pcd",
+      "bytes": 2396777,
+      "sha256": "d244f307b0e199b9b69f3f9a45d22f1c819839b9edfdeb900b2c909ab9b48a76",
+      "crc32": "79badb59"
+    },
+    {
+      "path": "9月20日/225-BS1A/_225-BS1A_GW1_AllFaces.pcd",
+      "bytes": 29268742,
+      "sha256": "25f72f6387a7a5ca0f2bf73c8d33725c395e7b328c80732a57a854da448d322a",
+      "crc32": "063f375c"
+    },
+    {
+      "path": "9月20日/226-FR137F/226-FR137F-0920-WQ_weld.cbf",
+      "bytes": 7876,
+      "sha256": "78cf1d8ed3cff1a86c3c0b47c50487b5b4efa022bc7ffb742e63eeeb776615e6",
+      "crc32": "5cd3277e"
+    },
+    {
+      "path": "9月20日/226-FR137F/226-FR137F-0920-WQ_weld.xlsx",
+      "bytes": 11946,
+      "sha256": "037c0a8e840a50b8304fe690741d0748cfa3761bfd12f09d33f5b0de6e6d4eac",
+      "crc32": "f029f999"
+    },
+    {
+      "path": "9月20日/226-FR137F/226-FR137F-0920-WQ_weld_overview.ply",
+      "bytes": 76035469,
+      "sha256": "ad0893489a95ffdd54941f5a0bdfa9e6e68a0702f2e7fba89e7f1aa49b35ee6f",
+      "crc32": "fc1e6238"
+    },
+    {
+      "path": "9月20日/226-FR137F/226-FR137F-0920-WQ_weld_welds.ply",
+      "bytes": 116093,
+      "sha256": "2b545faa71d7021d8728220bad651fe0bd1dae34b7306f54e00ec4902c61ff25",
+      "crc32": "20704e96"
+    },
+    {
+      "path": "9月20日/226-FR137F/226-FR137F-0920-WQ_weld_workpiece.ply",
+      "bytes": 75919604,
+      "sha256": "43ae9bf6199a8ef96b6e4c0720b7c53a6fe6d34709eb416fbd35a0822827ae31",
+      "crc32": "46333faf"
+    },
+    {
+      "path": "9月20日/226-FR137F/226-FR137F.png",
+      "bytes": 35689,
+      "sha256": "ffc50b670910ef8c3fb8d42230a0c3ee8dd832d47f9a9daa9d1b89bd83b63d72",
+      "crc32": "a432ab2f"
+    },
+    {
+      "path": "9月20日/226-FR137F/226-FR137F.stp",
+      "bytes": 70653,
+      "sha256": "0de0ce9217a1778cb4f72f2df32e3acbe2638f8b7ee49af5e4a7d20c00776fa1",
+      "crc32": "60a6c275"
+    },
+    {
+      "path": "9月20日/226-FR137F/_226-FR137F_GW1.pcd",
+      "bytes": 128128,
+      "sha256": "7150336f55756b9c9eaa5d920bd0b164cf923a9751c2b99f970fe436a7d0a1a3",
+      "crc32": "59706040"
+    },
+    {
+      "path": "9月20日/226-FR137F/_226-FR137F_GW1_AllFaces.pcd",
+      "bytes": 10728270,
+      "sha256": "42542368803069b36f7c653bc9d60caf62811e211be1b9e6a9344de141c4d67b",
+      "crc32": "65e6eb78"
+    },
+    {
+      "path": "9月20日/227-BK148A/227-BK148A-0920-WQ_weld.cbf",
+      "bytes": 8040,
+      "sha256": "569566db2f2c82be02c3b8435c935e72ce63d21145467b218765ce0afdc441eb",
+      "crc32": "22405965"
+    },
+    {
+      "path": "9月20日/227-BK148A/227-BK148A-0920-WQ_weld.xlsx",
+      "bytes": 11924,
+      "sha256": "ab58eca4ec78b2db30fc7f3859a947955b1ac3b40fdbcc21439d697ddcd00483",
+      "crc32": "8d087180"
+    },
+    {
+      "path": "9月20日/227-BK148A/227-BK148A-0920-WQ_weld_overview.ply",
+      "bytes": 22524642,
+      "sha256": "42e75a357469ba8dae0d55626ce160a7a4cde33950ce1179dd38da2db53ea9cd",
+      "crc32": "728fa950"
+    },
+    {
+      "path": "9月20日/227-BK148A/227-BK148A-0920-WQ_weld_welds.ply",
+      "bytes": 100426,
+      "sha256": "5d452f4f86136abf546feafcd21b902a6bb835e5af748dd322046f29c8c3be5f",
+      "crc32": "8a6a8230"
+    },
+    {
+      "path": "9月20日/227-BK148A/227-BK148A-0920-WQ_weld_workpiece.ply",
+      "bytes": 22424444,
+      "sha256": "cddce4b885b5706343577d0283d42c7c17bfcd1ba655a5a980034aa41265a9b1",
+      "crc32": "018ca016"
+    },
+    {
+      "path": "9月20日/227-BK148A/227-BK148A.png",
+      "bytes": 22802,
+      "sha256": "28edda7f8093dd545266e5b126223c8dca2b2904779a4369fee6470ad1f157ca",
+      "crc32": "f1fb9487"
+    },
+    {
+      "path": "9月20日/227-BK148A/227-BK148A.stp",
+      "bytes": 61392,
+      "sha256": "51ce06780b1083da436dd0a15c7b4518872c44005545f996ba72dcbd8f2918d9",
+      "crc32": "b163d301"
+    },
+    {
+      "path": "9月20日/227-BK148A/_227-BK148A_GW1.pcd",
+      "bytes": 453104,
+      "sha256": "0f57b7015479d5131c3519227a2bc1a4e65e2afc51b2c10321d6f71e02c8ba56",
+      "crc32": "58eefacc"
+    },
+    {
+      "path": "9月20日/227-BK148A/_227-BK148A_GW1_AllFaces.pcd",
+      "bytes": 11700843,
+      "sha256": "c54d4d90520382284bdc3ac0c8da6e1b18cc12613b6deb5b160c4d24cccbdc36",
+      "crc32": "10b313d8"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A-0922-lipeng.png",
+      "bytes": 31504,
+      "sha256": "fe40a8e2203cfeee8c971f7502f864deba265471217745546aa701a762add73e",
+      "crc32": "118bdbb4"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A-0922-lipeng_weld.cbf",
+      "bytes": 386716,
+      "sha256": "68ddb9812410bdc48d3dea10ce38baf66b592bc0fab32adf0e6a23b542338ded",
+      "crc32": "53b08452"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A-0922-lipeng_weld.xlsx",
+      "bytes": 28955,
+      "sha256": "b2359aa4c648c2592968a2cd28c4f48bbce0c63230a8e6a3cfaa96dd0c6d6f59",
+      "crc32": "80498abd"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A-0922-lipeng_weld.xlsx.jackc-review.json",
+      "bytes": 441652,
+      "sha256": "ccec2aa869594efa4cdfaa2051ac962882c3d1e6270b6dff40a525005dd7b642",
+      "crc32": "5281fb67"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A-0922-lipeng_weld_overview.ply",
+      "bytes": 107425153,
+      "sha256": "d595d0be740e42f0b01d322f335a9c215146d630bfff8a41d4df38d6068ab1c2",
+      "crc32": "c6a17ad4"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A-0922-lipeng_weld_welds.json",
+      "bytes": 16838600,
+      "sha256": "761b386ab373552ab4edab4b6db50b04ea86ed88da8364aa0df7bd33fb5ee624",
+      "crc32": "0751f110"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A-0922-lipeng_weld_welds.ply",
+      "bytes": 19327399,
+      "sha256": "ce1a9df59e10b97ea2f2d5efbe16a638745c1993dd0520338feb766ab4297f4f",
+      "crc32": "4354f7c9"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A-0922-lipeng_weld_workpiece.ply",
+      "bytes": 88097984,
+      "sha256": "c7cebdf0a7c4e2a34fa1080a10abec5d06c1925140f1263a2058d1c8c22ee140",
+      "crc32": "05348304"
+    },
+    {
+      "path": "9月20日/232-TT1A/232-TT1A.stp",
+      "bytes": 1627901,
+      "sha256": "3e31ac0a3e2a4d348417f8aa2cd53257ad88e4bddd7c5bc94e6c5c3f9ed54811",
+      "crc32": "407357ae"
+    },
+    {
+      "path": "9月20日/232-TT1A/_232-TT1A_GW1.pcd",
+      "bytes": 2973956,
+      "sha256": "8993689c29c0572e44b8df9c2a8e17e8cd2653689dcd10b4012ab61bb859e915",
+      "crc32": "10fbf97d"
+    },
+    {
+      "path": "9月20日/232-TT1A/_232-TT1A_GW1_AllFaces.pcd",
+      "bytes": 38910441,
+      "sha256": "716543003e3d8ac7295a6cd9227a330a6792e9a01cdb26767009f61c72ea9513",
+      "crc32": "63dbc82b"
+    },
+    {
+      "path": "9月20日/234-FR71A/.samples/blobs/0156b70f820cbfea85fc862bcee1078ec81bfe56fee339529fd3182ce648e29e",
+      "bytes": 16546,
+      "sha256": "0156b70f820cbfea85fc862bcee1078ec81bfe56fee339529fd3182ce648e29e",
+      "crc32": "ed19bab6"
+    },
+    {
+      "path": "9月20日/234-FR71A/.samples/blobs/07f8db6edfd1efb7b7b7ff00fbb88f628a774aae58eb4e2a7b18a9b9070152ac",
+      "bytes": 16549,
+      "sha256": "07f8db6edfd1efb7b7b7ff00fbb88f628a774aae58eb4e2a7b18a9b9070152ac",
+      "crc32": "4f6d1a39"
+    },
+    {
+      "path": "9月20日/234-FR71A/.samples/blobs/0910fa24270fee0b5a91e4a627105b70b5e63b8200680fc57ed08946ecdb3004",
+      "bytes": 44842772,
+      "sha256": "0910fa24270fee0b5a91e4a627105b70b5e63b8200680fc57ed08946ecdb3004",
+      "crc32": "89d31fde"
+    },
+    {
+      "path": "9月20日/234-FR71A/.samples/blobs/1b53c18ee841abedbcd3ee8ad5557456e0d16f15723402ae6e7356d6796b03bc",
+      "bytes": 1612170,
+      "sha256": "1b53c18ee841abedbcd3ee8ad5557456e0d16f15723402ae6e7356d6796b03bc",
+      "crc32": "3c1a8f23"
+    },
+    {
+      "path": "9月20日/234-FR71A/.samples/blobs/9e7c2babd88b0c7a637a5b3e10ec4611182e307c698893396806eb567d1f633c",
+      "bytes": 159824,
+      "sha256": "9e7c2babd88b0c7a637a5b3e10ec4611182e307c698893396806eb567d1f633c",
+      "crc32": "2072883c"
+    },
+    {
+      "path": "9月20日/234-FR71A/.samples/index.json",
+      "bytes": 9074610,
+      "sha256": "c2f22a50d288cf6cff5ca0d6abe44c29dec9c54cc6f84a3a64292c3f4bc403bd",
+      "crc32": "69f45111"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A-0921-lipeng.png",
+      "bytes": 36667,
+      "sha256": "6efe1262cadbf87eadfeba54488237dc38873e48f0dd1664aee9d485841ae6b3",
+      "crc32": "27e69f8b"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A-0921-lipeng_weld.cbf",
+      "bytes": 144584,
+      "sha256": "3d35d7490ed9505def854b3a78d9402ee8e81a8b49ac80ae679f64a25f7b3cee",
+      "crc32": "8726822c"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A-0921-lipeng_weld.xlsx",
+      "bytes": 16868,
+      "sha256": "ca7e3141ae3fda54b0afaa3f4420a9c8e232ba173aaa72a2de67849ceb627a4f",
+      "crc32": "451f8ce4"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A-0921-lipeng_weld.xlsx.jackc-review.json",
+      "bytes": 410593,
+      "sha256": "6ebd1cf5466befdc0bb2112698ab5ea8b16beacdb70c392f22fc1d7f329160b4",
+      "crc32": "f6820590"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A-0921-lipeng_weld_overview.ply",
+      "bytes": 65317164,
+      "sha256": "34c6d3046b077d8035a41d4396b4a593fd469a3e5c14b5e2e00abe7727a775b0",
+      "crc32": "fd37322b"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A-0921-lipeng_weld_welds.json",
+      "bytes": 2925688,
+      "sha256": "e30ce7090e02138d6ecc26872a3d59dae90167ec50c9e77103ba76b8a259dd3a",
+      "crc32": "74c9e635"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A-0921-lipeng_weld_welds.ply",
+      "bytes": 3327629,
+      "sha256": "ad7b22c875323a91ec3f97536f0be1a28d70d443d185ce4f4bc55e5f71ee2daf",
+      "crc32": "f6f0e215"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A-0921-lipeng_weld_workpiece.ply",
+      "bytes": 61989764,
+      "sha256": "9bf1a73eaea752bd3ead382d7f9c17529eaac9fa22476d7320723ab8feb145a6",
+      "crc32": "deb0a11d"
+    },
+    {
+      "path": "9月20日/234-FR71A/234-FR71A.stp",
+      "bytes": 1759814,
+      "sha256": "5ba1e9c1f7101605835d112876cda67eb915ffd8dde7545ba88dfa3510d97096",
+      "crc32": "26a71260"
+    },
+    {
+      "path": "9月20日/234-FR71A/_234-FR71A_GW1.pcd",
+      "bytes": 270084,
+      "sha256": "6dc05e3ea2016b7260135716bbacf4f6bbfb9ca7e832d305d1bfafc03cb743b4",
+      "crc32": "24bdc340"
+    },
+    {
+      "path": "9月20日/234-FR71A/_234-FR71A_GW1_AllFaces.pcd",
+      "bytes": 9145449,
+      "sha256": "c2a480876ca95bfa65333152ade405e30bc2d0e551bb6dd27a04ca2ff1d1e194",
+      "crc32": "49496bfe"
+    },
+    {
+      "path": "9月20日/521-CM56A/521-CM56A-0920-WQ_weld.cbf",
+      "bytes": 4040,
+      "sha256": "9fbdaebb6217ccc5a7822a8b52c622768330150f26739bd089882197ed2321d6",
+      "crc32": "efc02723"
+    },
+    {
+      "path": "9月20日/521-CM56A/521-CM56A-0920-WQ_weld.xlsx",
+      "bytes": 11594,
+      "sha256": "67b873dd4ff9e8bdbe85f25cd61d8da1b58fc09651e9f947224464e724ca69e4",
+      "crc32": "bdeddfa8"
+    },
+    {
+      "path": "9月20日/521-CM56A/521-CM56A-0920-WQ_weld_overview.ply",
+      "bytes": 56793875,
+      "sha256": "e0d535950a519f21861f52e716004ec0d5669d35e6710a7ade268d85e14a6bef",
+      "crc32": "8248775a"
+    },
+    {
+      "path": "9月20日/521-CM56A/521-CM56A-0920-WQ_weld_welds.ply",
+      "bytes": 54328,
+      "sha256": "69fadd403462feebab04a638f2e8917ce78d3b2f62333c73087eacda53afbcb1",
+      "crc32": "80b45bb3"
+    },
+    {
+      "path": "9月20日/521-CM56A/521-CM56A-0920-WQ_weld_workpiece.ply",
+      "bytes": 56739775,
+      "sha256": "d428e42723d8352f0bf2d52af90631c1753cd76f6b908f3b0b0af11691720368",
+      "crc32": "54339b76"
+    },
+    {
+      "path": "9月20日/521-CM56A/521-CM56A.png",
+      "bytes": 31775,
+      "sha256": "99fd1c7d5e7ecfac88f4248e4daa288fc26484e85e5f1b0837452f4297c1273b",
+      "crc32": "86499a54"
+    },
+    {
+      "path": "9月20日/521-CM56A/521-CM56A.stp",
+      "bytes": 68305,
+      "sha256": "9c48fa705380cc9e58601499ab9af42f9ecdd99c6c9ee86a6ca457bfd281ae60",
+      "crc32": "903498c4"
+    },
+    {
+      "path": "9月20日/521-CM56A/_521-CM56A_GW1.pcd",
+      "bytes": 194306,
+      "sha256": "9d00238aa2c51445186e71711b6fe7b7defbe7a9a9c0df02286db48ac6df30e0",
+      "crc32": "f75d2fad"
+    },
+    {
+      "path": "9月20日/521-CM56A/_521-CM56A_GW1_AllFaces.pcd",
+      "bytes": 9411525,
+      "sha256": "c77e1ccbba586a909bd0bd7a00476cf3df7f2f73d3ffe221a143d84158622c2a",
+      "crc32": "98a4dedf"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/00ad855e3d43000225a203fd0fe8e297bc7364f48eafc3a3550b6cf594cac64d",
+      "bytes": 28829,
+      "sha256": "00ad855e3d43000225a203fd0fe8e297bc7364f48eafc3a3550b6cf594cac64d",
+      "crc32": "1d17d897"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/0156b70f820cbfea85fc862bcee1078ec81bfe56fee339529fd3182ce648e29e",
+      "bytes": 16546,
+      "sha256": "0156b70f820cbfea85fc862bcee1078ec81bfe56fee339529fd3182ce648e29e",
+      "crc32": "ed19bab6"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/015cbbb8730d68e88a79a48b8542646452493116ec69f817bdb5563c90be5bc0",
+      "bytes": 72720631,
+      "sha256": "015cbbb8730d68e88a79a48b8542646452493116ec69f817bdb5563c90be5bc0",
+      "crc32": "5337f3c5"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/022ae2090ac0c4f496b587ef773cef09cb085ec67d8b6dacb8469e16a86e3352",
+      "bytes": 16870,
+      "sha256": "022ae2090ac0c4f496b587ef773cef09cb085ec67d8b6dacb8469e16a86e3352",
+      "crc32": "15056468"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/07f8db6edfd1efb7b7b7ff00fbb88f628a774aae58eb4e2a7b18a9b9070152ac",
+      "bytes": 16549,
+      "sha256": "07f8db6edfd1efb7b7b7ff00fbb88f628a774aae58eb4e2a7b18a9b9070152ac",
+      "crc32": "4f6d1a39"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/0910fa24270fee0b5a91e4a627105b70b5e63b8200680fc57ed08946ecdb3004",
+      "bytes": 44842772,
+      "sha256": "0910fa24270fee0b5a91e4a627105b70b5e63b8200680fc57ed08946ecdb3004",
+      "crc32": "89d31fde"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/09cd5ab09755b38eb5b906c902a5cc8cb835d3d9b277c90102f90eeaf8ab128b",
+      "bytes": 15279,
+      "sha256": "09cd5ab09755b38eb5b906c902a5cc8cb835d3d9b277c90102f90eeaf8ab128b",
+      "crc32": "2c610571"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/0e66dd4ec987c57a2ecbc3af137e5226e8db6a1f1edf471deea6f93106686f03",
+      "bytes": 28984,
+      "sha256": "0e66dd4ec987c57a2ecbc3af137e5226e8db6a1f1edf471deea6f93106686f03",
+      "crc32": "d9d06803"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/11084b759df922418956cf7bd9f3919afab780924395107ec423efc5cce8e1f3",
+      "bytes": 26557,
+      "sha256": "11084b759df922418956cf7bd9f3919afab780924395107ec423efc5cce8e1f3",
+      "crc32": "42bedec9"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/128a1fdb0e9c8c412b7b9620576cbaa21cdf96cd394bf5e0196a8842e21bfdfc",
+      "bytes": 28853,
+      "sha256": "128a1fdb0e9c8c412b7b9620576cbaa21cdf96cd394bf5e0196a8842e21bfdfc",
+      "crc32": "73c05d05"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/1b53c18ee841abedbcd3ee8ad5557456e0d16f15723402ae6e7356d6796b03bc",
+      "bytes": 1612170,
+      "sha256": "1b53c18ee841abedbcd3ee8ad5557456e0d16f15723402ae6e7356d6796b03bc",
+      "crc32": "3c1a8f23"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/2c88c318b6eca57c322a0cb3951ddf12739031c193287d44b3ad2f4ee9abf2c1",
+      "bytes": 16874,
+      "sha256": "2c88c318b6eca57c322a0cb3951ddf12739031c193287d44b3ad2f4ee9abf2c1",
+      "crc32": "9b846ebd"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/2ca199f34a3a6abe6259198c730c427263e420bf62b4f171dc20afc2b947eff2",
+      "bytes": 16868,
+      "sha256": "2ca199f34a3a6abe6259198c730c427263e420bf62b4f171dc20afc2b947eff2",
+      "crc32": "8354006e"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/30ad210a6b8acf267efdc4eeb8957a968e5d35ca77e2349917fba6389466e577",
+      "bytes": 28981,
+      "sha256": "30ad210a6b8acf267efdc4eeb8957a968e5d35ca77e2349917fba6389466e577",
+      "crc32": "4e8b195b"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/30d8701b698a193eac180f29d945ee46ff6dc7dbd40fa06961d5266aa9ae5ccc",
+      "bytes": 930321,
+      "sha256": "30d8701b698a193eac180f29d945ee46ff6dc7dbd40fa06961d5266aa9ae5ccc",
+      "crc32": "0ce7ff08"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/34c9205f8f01f2ae4cee5ee8175085628fa4f6f49a2e73b85e3d9ee4ad2d60b7",
+      "bytes": 1118292,
+      "sha256": "34c9205f8f01f2ae4cee5ee8175085628fa4f6f49a2e73b85e3d9ee4ad2d60b7",
+      "crc32": "1e2f6051"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/3cd869cc5536f03252ed23a2cecb2ffc430d88783ca8e6decf640c15c88bd6b8",
+      "bytes": 26644,
+      "sha256": "3cd869cc5536f03252ed23a2cecb2ffc430d88783ca8e6decf640c15c88bd6b8",
+      "crc32": "0630a8a5"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/3d35d7490ed9505def854b3a78d9402ee8e81a8b49ac80ae679f64a25f7b3cee",
+      "bytes": 144584,
+      "sha256": "3d35d7490ed9505def854b3a78d9402ee8e81a8b49ac80ae679f64a25f7b3cee",
+      "crc32": "8726822c"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/3e31ac0a3e2a4d348417f8aa2cd53257ad88e4bddd7c5bc94e6c5c3f9ed54811",
+      "bytes": 1627901,
+      "sha256": "3e31ac0a3e2a4d348417f8aa2cd53257ad88e4bddd7c5bc94e6c5c3f9ed54811",
+      "crc32": "407357ae"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/415d779d3927d61ec5bfd7c59fc64549276222b54ee67bca8124dd46169a15ce",
+      "bytes": 28809,
+      "sha256": "415d779d3927d61ec5bfd7c59fc64549276222b54ee67bca8124dd46169a15ce",
+      "crc32": "1687677b"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/41e22ad3a3bf9aca9ac350304784a8bce49d0ac16440f70de0e248901d184b5c",
+      "bytes": 1632223,
+      "sha256": "41e22ad3a3bf9aca9ac350304784a8bce49d0ac16440f70de0e248901d184b5c",
+      "crc32": "46290a17"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/4a52a7742e99d8e68e7112c05f176b9a2ae0a0c59b45f8c345b6a6daf0cbb064",
+      "bytes": 40026,
+      "sha256": "4a52a7742e99d8e68e7112c05f176b9a2ae0a0c59b45f8c345b6a6daf0cbb064",
+      "crc32": "866bc47f"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/4cfa6e1aa7ed862cb25231fc60e228624a86513b93a1a4ad98aed6d619c70201",
+      "bytes": 39744,
+      "sha256": "4cfa6e1aa7ed862cb25231fc60e228624a86513b93a1a4ad98aed6d619c70201",
+      "crc32": "20e94411"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/501bcd0258bcf9ae4da2f5f62b40f66e10d493b85e61d64bb3c9042128385dd6",
+      "bytes": 26547,
+      "sha256": "501bcd0258bcf9ae4da2f5f62b40f66e10d493b85e61d64bb3c9042128385dd6",
+      "crc32": "6378d453"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/5043335565ef38dd4cd881f00f7e6b744af357c204a986c62b19b3ef73659800",
+      "bytes": 28769,
+      "sha256": "5043335565ef38dd4cd881f00f7e6b744af357c204a986c62b19b3ef73659800",
+      "crc32": "7c3a24d1"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/521a4d7689a4296f306104e12c8e263226432ac0757a0baf7931248e0b6353dd",
+      "bytes": 902721,
+      "sha256": "521a4d7689a4296f306104e12c8e263226432ac0757a0baf7931248e0b6353dd",
+      "crc32": "bf43a086"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/585de47d584cf5a4b013b4588a10db3a21e1f901bf7d14f7822a55470cd45be8",
+      "bytes": 28965,
+      "sha256": "585de47d584cf5a4b013b4588a10db3a21e1f901bf7d14f7822a55470cd45be8",
+      "crc32": "35e50836"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/5ba1e9c1f7101605835d112876cda67eb915ffd8dde7545ba88dfa3510d97096",
+      "bytes": 1759814,
+      "sha256": "5ba1e9c1f7101605835d112876cda67eb915ffd8dde7545ba88dfa3510d97096",
+      "crc32": "26a71260"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/61b98109ece46ea2d318338cd13e0fe844822617821cbb3ba6da2591e84b4452",
+      "bytes": 848888,
+      "sha256": "61b98109ece46ea2d318338cd13e0fe844822617821cbb3ba6da2591e84b4452",
+      "crc32": "fdfc9ca4"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/66030a21e2452712765dc548a02a5e711ba0fbaa54bf6c1b14175803e5fc1e3b",
+      "bytes": 16871,
+      "sha256": "66030a21e2452712765dc548a02a5e711ba0fbaa54bf6c1b14175803e5fc1e3b",
+      "crc32": "ca53e598"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/67a7355de9eda975da5a33ea50ba0c100256ccb7a223fb7dea3bb84d0eb8e1bc",
+      "bytes": 28991,
+      "sha256": "67a7355de9eda975da5a33ea50ba0c100256ccb7a223fb7dea3bb84d0eb8e1bc",
+      "crc32": "33e88b4a"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/68ddb9812410bdc48d3dea10ce38baf66b592bc0fab32adf0e6a23b542338ded",
+      "bytes": 386716,
+      "sha256": "68ddb9812410bdc48d3dea10ce38baf66b592bc0fab32adf0e6a23b542338ded",
+      "crc32": "53b08452"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/6e1fc0cfbe359f66fc31cd9c2ed15ec878a61946a161265bff92a96585c8f8c9",
+      "bytes": 28933,
+      "sha256": "6e1fc0cfbe359f66fc31cd9c2ed15ec878a61946a161265bff92a96585c8f8c9",
+      "crc32": "5f7bd13c"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/763ccce0849de7ab191b685515af6164e016646e7435d87092ae00b75b75a4ba",
+      "bytes": 26598,
+      "sha256": "763ccce0849de7ab191b685515af6164e016646e7435d87092ae00b75b75a4ba",
+      "crc32": "2b2480c9"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/7885de6a3bd18bf2096f969e25c8b63a81c2b9c1e4d74aab449cea7f15eeb148",
+      "bytes": 16554,
+      "sha256": "7885de6a3bd18bf2096f969e25c8b63a81c2b9c1e4d74aab449cea7f15eeb148",
+      "crc32": "1e72e699"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/7ad1ab6dac5e25c9cadab8c68d3fef1ae07bf12f55fd2f5e2e0ae3fcbccb8c9a",
+      "bytes": 26544,
+      "sha256": "7ad1ab6dac5e25c9cadab8c68d3fef1ae07bf12f55fd2f5e2e0ae3fcbccb8c9a",
+      "crc32": "ccca2e35"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/83f87443bf0fdcc702812867e3a5aaf873c125aefad402239a19dd0842e6a359",
+      "bytes": 39973,
+      "sha256": "83f87443bf0fdcc702812867e3a5aaf873c125aefad402239a19dd0842e6a359",
+      "crc32": "195241b9"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/923ec2afe6ab34a28770216dbe2749745a6430845c029472038873d1b7d513e4",
+      "bytes": 28985,
+      "sha256": "923ec2afe6ab34a28770216dbe2749745a6430845c029472038873d1b7d513e4",
+      "crc32": "2635a858"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/9393a34a3bfb396fab32395b528c5edead1ad3a843e0be8e9ed37291f961a2a3",
+      "bytes": 26542,
+      "sha256": "9393a34a3bfb396fab32395b528c5edead1ad3a843e0be8e9ed37291f961a2a3",
+      "crc32": "be84fb71"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/9720562525495677d27d12ea13c75a49f5b6b7bcdf0b5af1348742ec6cd8c23c",
+      "bytes": 28778,
+      "sha256": "9720562525495677d27d12ea13c75a49f5b6b7bcdf0b5af1348742ec6cd8c23c",
+      "crc32": "d821a8e1"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/97df3914aa7eb93dd6dced1651cc6733e8fa5a74c4385f95dc882a579c15c482",
+      "bytes": 55404,
+      "sha256": "97df3914aa7eb93dd6dced1651cc6733e8fa5a74c4385f95dc882a579c15c482",
+      "crc32": "5dd0092f"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/9bf1a73eaea752bd3ead382d7f9c17529eaac9fa22476d7320723ab8feb145a6",
+      "bytes": 61989764,
+      "sha256": "9bf1a73eaea752bd3ead382d7f9c17529eaac9fa22476d7320723ab8feb145a6",
+      "crc32": "deb0a11d"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/9e7c2babd88b0c7a637a5b3e10ec4611182e307c698893396806eb567d1f633c",
+      "bytes": 159824,
+      "sha256": "9e7c2babd88b0c7a637a5b3e10ec4611182e307c698893396806eb567d1f633c",
+      "crc32": "2072883c"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/b2359aa4c648c2592968a2cd28c4f48bbce0c63230a8e6a3cfaa96dd0c6d6f59",
+      "bytes": 28955,
+      "sha256": "b2359aa4c648c2592968a2cd28c4f48bbce0c63230a8e6a3cfaa96dd0c6d6f59",
+      "crc32": "80498abd"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/b76164fb563f17b0ae18cb5d27f9ce87cca00a5639f8447790b0a8056cb154a4",
+      "bytes": 50973150,
+      "sha256": "b76164fb563f17b0ae18cb5d27f9ce87cca00a5639f8447790b0a8056cb154a4",
+      "crc32": "c006faed"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/bc4cceda8fced7232d7a93122791ca7d6d2c6a98a93c0c547612df309da4ecc8",
+      "bytes": 16554,
+      "sha256": "bc4cceda8fced7232d7a93122791ca7d6d2c6a98a93c0c547612df309da4ecc8",
+      "crc32": "5943d72b"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/c3127a1df92d1afc3f5ef54a11c31d46308aae1a5330a5565811559e00c4a728",
+      "bytes": 15307,
+      "sha256": "c3127a1df92d1afc3f5ef54a11c31d46308aae1a5330a5565811559e00c4a728",
+      "crc32": "3b995e2f"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/c3715fec6cee171a02126b0ac001f6e94b9010dfa12ba58de31efe5d8d315c83",
+      "bytes": 314708,
+      "sha256": "c3715fec6cee171a02126b0ac001f6e94b9010dfa12ba58de31efe5d8d315c83",
+      "crc32": "30f9cad7"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/c5ac9e72940bef27ecd3270e3d73cc47fd41fcc01a6e32ee30325a1deb823866",
+      "bytes": 131149873,
+      "sha256": "c5ac9e72940bef27ecd3270e3d73cc47fd41fcc01a6e32ee30325a1deb823866",
+      "crc32": "d3c1eb36"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/c7cebdf0a7c4e2a34fa1080a10abec5d06c1925140f1263a2058d1c8c22ee140",
+      "bytes": 88097984,
+      "sha256": "c7cebdf0a7c4e2a34fa1080a10abec5d06c1925140f1263a2058d1c8c22ee140",
+      "crc32": "05348304"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/c86bf8dbd388a7d01c221e1818b301139c7e952891dc0e1d2da1d78b66badc16",
+      "bytes": 114944,
+      "sha256": "c86bf8dbd388a7d01c221e1818b301139c7e952891dc0e1d2da1d78b66badc16",
+      "crc32": "fe32701d"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/c8fde3c709b11e6c7387d76808b197058237c176b78a95ed71bd6c779588f899",
+      "bytes": 116382020,
+      "sha256": "c8fde3c709b11e6c7387d76808b197058237c176b78a95ed71bd6c779588f899",
+      "crc32": "6b3ec06f"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/ca7e3141ae3fda54b0afaa3f4420a9c8e232ba173aaa72a2de67849ceb627a4f",
+      "bytes": 16868,
+      "sha256": "ca7e3141ae3fda54b0afaa3f4420a9c8e232ba173aaa72a2de67849ceb627a4f",
+      "crc32": "451f8ce4"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/dd3d06072056175ceea108b9db1acfa0aae1badc2c310578242b305d5ac11bf7",
+      "bytes": 16502,
+      "sha256": "dd3d06072056175ceea108b9db1acfa0aae1badc2c310578242b305d5ac11bf7",
+      "crc32": "7dafb3a5"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/e1887146fc7185cf3e529f794f626375282b3ee8a9ad7ec5a717ab8dd2eb9b5e",
+      "bytes": 28978,
+      "sha256": "e1887146fc7185cf3e529f794f626375282b3ee8a9ad7ec5a717ab8dd2eb9b5e",
+      "crc32": "c5df1f23"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/e35b7b06e9af04471ab47cbf39e81c7c37d40ea5976819c4f892d9cdba445f1c",
+      "bytes": 914480,
+      "sha256": "e35b7b06e9af04471ab47cbf39e81c7c37d40ea5976819c4f892d9cdba445f1c",
+      "crc32": "11db481c"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/e3c49a2a490f65194acc7d1c1fc7f722e9ec3dd8cf91f6d63d1f7f2f31d677fa",
+      "bytes": 28821,
+      "sha256": "e3c49a2a490f65194acc7d1c1fc7f722e9ec3dd8cf91f6d63d1f7f2f31d677fa",
+      "crc32": "300cd8f1"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/e91cbb7a6fb90231c281486c606ec720fe0d123a0c0ea46f00ed3abe7c27d2cf",
+      "bytes": 28745,
+      "sha256": "e91cbb7a6fb90231c281486c606ec720fe0d123a0c0ea46f00ed3abe7c27d2cf",
+      "crc32": "4bc98f17"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/ed8cfb83fcbdbc8182c01a92bda1bbde5c9301756d5aa9d4551ed21e64323187",
+      "bytes": 15296,
+      "sha256": "ed8cfb83fcbdbc8182c01a92bda1bbde5c9301756d5aa9d4551ed21e64323187",
+      "crc32": "21c355c7"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/f20a88482a4365a4c15c6beb59f8d4d3752967ccabe206b993dfb32d10941fae",
+      "bytes": 28784,
+      "sha256": "f20a88482a4365a4c15c6beb59f8d4d3752967ccabe206b993dfb32d10941fae",
+      "crc32": "5fc70b3d"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/f43aabae8b5036b9756802f5cb46e1cc306e9b23ff491bfc8dfa6f826d311d41",
+      "bytes": 16553,
+      "sha256": "f43aabae8b5036b9756802f5cb46e1cc306e9b23ff491bfc8dfa6f826d311d41",
+      "crc32": "80d5b7b6"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/blobs/f9d61e0a03d841a93845b518d41c617598c80810768429d376dbe6a68971543b",
+      "bytes": 39662,
+      "sha256": "f9d61e0a03d841a93845b518d41c617598c80810768429d376dbe6a68971543b",
+      "crc32": "23778526"
+    },
+    {
+      "path": "9月20日/527-FR146A/.samples/index.json",
+      "bytes": 96750692,
+      "sha256": "0e9f823cdd46e2f57a7a56f82e38f47cba76ca7a53e6ff7a06b8c5155dbc39fb",
+      "crc32": "c0cb6e30"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG.png",
+      "bytes": 83372,
+      "sha256": "11dd2edacdfe2939174c65f5636feeaf71d5b19accf9b18a562f916d5c3793ed",
+      "crc32": "a05ffc28"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG_weld.cbf",
+      "bytes": 314708,
+      "sha256": "c3715fec6cee171a02126b0ac001f6e94b9010dfa12ba58de31efe5d8d315c83",
+      "crc32": "30f9cad7"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG_weld.xlsx",
+      "bytes": 26598,
+      "sha256": "763ccce0849de7ab191b685515af6164e016646e7435d87092ae00b75b75a4ba",
+      "crc32": "2b2480c9"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG_weld.xlsx.20260921-175944-615.a0ec900d.bak",
+      "bytes": 26544,
+      "sha256": "7ad1ab6dac5e25c9cadab8c68d3fef1ae07bf12f55fd2f5e2e0ae3fcbccb8c9a",
+      "crc32": "ccca2e35"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG_weld.xlsx.jackc-review.json",
+      "bytes": 129708,
+      "sha256": "692488aa8662ad6a4834bf9aa2d7c6307257396b8db16ecd3a03d0da43a4459d",
+      "crc32": "8a88194c"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG_weld_overview.ply",
+      "bytes": 121110080,
+      "sha256": "af1e1ae9f06b2604fe0152f0b647c8e5502e1d577073c1da67bc8464941b3e6f",
+      "crc32": "e9908491"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG_weld_welds.json",
+      "bytes": 4168891,
+      "sha256": "c41d7016eac55db88b32cac64f6c5ee90233ffc5af4a377d9b6284c8f371128f",
+      "crc32": "027e8a9d"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG_weld_welds.ply",
+      "bytes": 4728289,
+      "sha256": "3f3292e697b87f579583e072ed7d85ba4a4dbd2627e60ed6981137cacdebeba4",
+      "crc32": "616bf838"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A-0921-LIPENG_weld_workpiece.ply",
+      "bytes": 116382020,
+      "sha256": "c8fde3c709b11e6c7387d76808b197058237c176b78a95ed71bd6c779588f899",
+      "crc32": "6b3ec06f"
+    },
+    {
+      "path": "9月20日/527-FR146A/527-FR146A.stp",
+      "bytes": 1118292,
+      "sha256": "34c9205f8f01f2ae4cee5ee8175085628fa4f6f49a2e73b85e3d9ee4ad2d60b7",
+      "crc32": "1e2f6051"
+    },
+    {
+      "path": "9月20日/527-FR146A/_527-FR146A_GW1.pcd",
+      "bytes": 385343,
+      "sha256": "2de6a7c4ca2ef74734fbd307f23793b2a4ee1391ec1a714addf1270e021618e2",
+      "crc32": "9a5ec6cf"
+    },
+    {
+      "path": "9月20日/527-FR146A/_527-FR146A_GW1_AllFaces.pcd",
+      "bytes": 7223969,
+      "sha256": "ef44e68895e0fccfc163facc33d4c22eb7bfe2bea990d4ba66cbdec430396da8",
+      "crc32": "bcc58127"
+    },
+    {
+      "path": "9月20日/527-LB24A1/527-LB24A1-0921-朱亚桐.png",
+      "bytes": 58303,
+      "sha256": "efe628d5fcb82a7a71f6f41de4690b10cafab0b5a1bf3ce5d65431c15c3e6dc1",
+      "crc32": "5d3c1591"
+    },
+    {
+      "path": "9月20日/527-LB24A1/527-LB24A1-0921-朱亚桐_weld.cbf",
+      "bytes": 475308,
+      "sha256": "efa65fd65d4d5b343c9b0d1121f507e5f37ae92d77df25f65d479dd5dda0573c",
+      "crc32": "bd9595e9"
+    },
+    {
+      "path": "9月20日/527-LB24A1/527-LB24A1-0921-朱亚桐_weld.xlsx",
+      "bytes": 39483,
+      "sha256": "4352ffbcf72721d49ad3f8fb27fd63b7adbae815883ba3fe39bb9dacb4f04936",
+      "crc32": "68c6dc8f"
+    },
+    {
+      "path": "9月20日/527-LB24A1/527-LB24A1-0921-朱亚桐_weld_overview.ply",
+      "bytes": 87032791,
+      "sha256": "1f730cd2d0fab6355041a7c201263726725b0ff7a9863d8880ada5cb8cb988aa",
+      "crc32": "2e9ab6f2"
+    },
+    {
+      "path": "9月20日/527-LB24A1/527-LB24A1-0921-朱亚桐_weld_welds.json",
+      "bytes": 15583782,
+      "sha256": "f12bc64fb609ee6fba187636b49298167fd38ad0089bc8a3c44ec503993bfd91",
+      "crc32": "e99cc4d5"
+    },
+    {
+      "path": "9月20日/527-LB24A1/527-LB24A1-0921-朱亚桐_weld_welds.ply",
+      "bytes": 17963278,
+      "sha256": "b76952999a8c25419ef5459149ad9dc9f9189fdd10b958eab61e4a347be21cbc",
+      "crc32": "9fa7cde1"
+    },
+    {
+      "path": "9月20日/527-LB24A1/527-LB24A1-0921-朱亚桐_weld_workpiece.ply",
+      "bytes": 69069743,
+      "sha256": "b843624c2ad6edc507bad7fe35899b8da87416d1dd3a42a516d2d77faf873350",
+      "crc32": "9dd668af"
+    },
+    {
+      "path": "9月20日/527-LB24A1/527-LB24A1.stp",
+      "bytes": 1335377,
+      "sha256": "6e16454aa40426b7d9f05239ccaf0277ea815d3fc4bfb21d44be00b3865c5cc2",
+      "crc32": "f55c6bff"
+    },
+    {
+      "path": "9月20日/527-LB24A1/_527-LB24A1_GW1.pcd",
+      "bytes": 3064298,
+      "sha256": "8ac5e45fc965661fcb8056b0bb8905de0bdc9b172bf3023d7d9785ad7a51eee6",
+      "crc32": "475352b5"
+    },
+    {
+      "path": "9月20日/527-LB24A1/_527-LB24A1_GW1_AllFaces.pcd",
+      "bytes": 41168188,
+      "sha256": "5a915baf3e95a41649159da11a41e4511265d2e6cbc793d3fe7a4fb3c6192d26",
+      "crc32": "c17f44a6"
+    },
+    {
+      "path": "9月20日/BM79A/_BM79A_GW1.pcd",
+      "bytes": 2177,
+      "sha256": "dc4e91d3e052f0beaaa4f64c75866140fd28b34ae9a4c85348d0fc9ef385ac5b",
+      "crc32": "07837b87"
+    },
+    {
+      "path": "9月20日/BM79A/_BM79A_GW1_AllFaces.pcd",
+      "bytes": 1899160,
+      "sha256": "7b96f11864c00c5e75322f73230ed71ece87b13ca59c3694e5abbf4f0b2da2f5",
+      "crc32": "6b17babb"
+    },
+    {
+      "path": "9月20日/BM79A/BM79A-0920-WQ_weld.cbf",
+      "bytes": 21220,
+      "sha256": "a438e5d82909eae80ee3e8870d330eb2b424dbd4f3dc8f0c277343cf0edf857f",
+      "crc32": "662c3e17"
+    },
+    {
+      "path": "9月20日/BM79A/BM79A-0920-WQ_weld.xlsx",
+      "bytes": 11597,
+      "sha256": "4567dff3eec6185d6aa8fa28006f5c0ed586ea7cbca739cba63ec96ee58972ec",
+      "crc32": "cbfb9156"
+    },
+    {
+      "path": "9月20日/BM79A/BM79A-0920-WQ_weld_overview.ply",
+      "bytes": 116118974,
+      "sha256": "3dbe14b121f3a67929c8afde848218d79fde896e3a1101cccd25a4ff786021e4",
+      "crc32": "7e90aefa"
+    },
+    {
+      "path": "9月20日/BM79A/BM79A-0920-WQ_weld_welds.ply",
+      "bytes": 254654,
+      "sha256": "f6cbfceb708d4872070a250dc5e352b6eb7917501c56bb9a42f4346b6c2f1a7d",
+      "crc32": "7d19435a"
+    },
+    {
+      "path": "9月20日/BM79A/BM79A-0920-WQ_weld_workpiece.ply",
+      "bytes": 115864548,
+      "sha256": "4f11188f96126b8e903c4c6e3b939bb1af95396762c66477255f87dac28a7940",
+      "crc32": "224fa114"
+    },
+    {
+      "path": "9月20日/BM79A/BM79A.png",
+      "bytes": 39262,
+      "sha256": "ee4ee49dd4e4d8ba55632c1be3a2f9e04c5186baed3fca0bbba57dd20fe01647",
+      "crc32": "0d0eed94"
+    },
+    {
+      "path": "9月20日/BM79A/BM79A.stp",
+      "bytes": 71147,
+      "sha256": "7178d62e201fe895ab85edf26868d13a61812a9407d4c78b556a6386a28e4216",
+      "crc32": "7ae6a9f4"
+    },
+    {
+      "path": "9月20日/GR768A/_GR768A_GW1.pcd",
+      "bytes": 84425,
+      "sha256": "d8dcecc3b8fcde30ee441fd3704d22fdc1a1fa8589f4ed1215ddad770b63c428",
+      "crc32": "dbd1ed72"
+    },
+    {
+      "path": "9月20日/GR768A/_GR768A_GW1_AllFaces.pcd",
+      "bytes": 810732,
+      "sha256": "93d0360a16f9e00e544cf7739467181b92cba141efd18f3c8caf21512e3285e6",
+      "crc32": "10c95ece"
+    },
+    {
+      "path": "9月20日/GR768A/GR768A-0920-WQ_weld.cbf",
+      "bytes": 4116,
+      "sha256": "e6e03a42a54b03acd7edaca60cbe31e6bf514a27d4f74801e44931999c634d4a",
+      "crc32": "06238042"
+    },
+    {
+      "path": "9月20日/GR768A/GR768A-0920-WQ_weld.xlsx",
+      "bytes": 11603,
+      "sha256": "684116af7202581bc48c44f201b1176b270dcfc26634eef15c33bcafd0b7dfd5",
+      "crc32": "dbb2d7d2"
+    },
+    {
+      "path": "9月20日/GR768A/GR768A-0920-WQ_weld_overview.ply",
+      "bytes": 90683968,
+      "sha256": "8ff1f5a53a524dfd834c92cdeb0446a2ffc28086e52a5b3f69426485af8daa7e",
+      "crc32": "653edd1f"
+    },
+    {
+      "path": "9月20日/GR768A/GR768A-0920-WQ_weld_welds.ply",
+      "bytes": 506766,
+      "sha256": "f14d7c06d508e5ac693c690e3ce521112e42f03ddac650a1e0ee0828b02b65b0",
+      "crc32": "6feaab79"
+    },
+    {
+      "path": "9月20日/GR768A/GR768A-0920-WQ_weld_workpiece.ply",
+      "bytes": 90177430,
+      "sha256": "c39d9a8e68d4afe4e49160f6a8662babda38deef79e8c73449c1a1b699a3743a",
+      "crc32": "0f051bb3"
+    },
+    {
+      "path": "9月20日/GR768A/GR768A.png",
+      "bytes": 34240,
+      "sha256": "ba95c32e3bb916346040c3ca96696bd73278f1bf58ad16ca32c4de8640fed38e",
+      "crc32": "7dec0d26"
+    },
+    {
+      "path": "9月20日/GR768A/GR768A.stp",
+      "bytes": 60896,
+      "sha256": "c06e29f6c6f14e54a5e0d5ca71cf12587e34ff7571c757be419a7ef8115b34cb",
+      "crc32": "05b47466"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B-0928.png",
+      "bytes": 23322,
+      "sha256": "f7542a6fc5ba8ab4896ba08f20d1aeb2ecfeaa2ef5d713efb352e7c02a582153",
+      "crc32": "266b1d28"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B-0928_weld.cbf",
+      "bytes": 114876,
+      "sha256": "06c56450d29865f08b17867706c8eea581ef445254e015b0a39f02983df6f2a6",
+      "crc32": "63ef98c4"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B-0928_weld.xlsx",
+      "bytes": 20372,
+      "sha256": "46ffa1071f6d803f12b909c4cbf1a744981b7bf1b2717fa111c743d56b3ced9e",
+      "crc32": "59856d55"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B-0928_weld.xlsx.jackc-review.json",
+      "bytes": 88224,
+      "sha256": "7ae376f01b539cbf7c94bc4ecd5d23d99d7a95bfd6d42da94712a28d49a68b2e",
+      "crc32": "f2103e24"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B-0928_weld_overview.ply",
+      "bytes": 109884121,
+      "sha256": "66cc90cfa44ad2ea05bde272d6834f2372162903e779a0c8dbfa1ee82c10146a",
+      "crc32": "e2e2e428"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B-0928_weld_welds.json",
+      "bytes": 1148930,
+      "sha256": "1348b426f1cd687452113482c83d59af648a578143a0af2e406235f3bcffed72",
+      "crc32": "cfd72057"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B-0928_weld_welds.ply",
+      "bytes": 1305604,
+      "sha256": "0d0b3f4beb8f8f03b1b1c73b01829542f6a317e14027d15a68388fd51991246c",
+      "crc32": "8a75075b"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B-0928_weld_workpiece.ply",
+      "bytes": 108578746,
+      "sha256": "22e91f210fc6fde75701737f2a8e2fa00dc0a5f7152c78f2843ace4fd6eb2652",
+      "crc32": "82ec195c"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/161-DK2B.stp",
+      "bytes": 365281,
+      "sha256": "393ab73d6dd4efe2dec21615970f42cce97658ed0bb55eb32be6915608be3f3c",
+      "crc32": "d397a681"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/_161-DK2B_GW1.pcd",
+      "bytes": 346761,
+      "sha256": "bda3855a423f99bc135e784794cb23be7b5b6253d28055b25f4258a5167f425f",
+      "crc32": "0897ac65"
+    },
+    {
+      "path": "标注数据20261004/真值/1-161-DK2B-0928/_161-DK2B_GW1_AllFaces.pcd",
+      "bytes": 14369162,
+      "sha256": "3b66a54e2e093f2d9f659d271909bad68d3e6e164613d2a937a9416d781991a9",
+      "crc32": "b83bfb1c"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A-0929_weld.cbf",
+      "bytes": 359756,
+      "sha256": "c561f700600621e3430dd54de45607236bf79184e30bb7fc437b862b77659b49",
+      "crc32": "08c35604"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A-0929_weld.png",
+      "bytes": 40402,
+      "sha256": "6904e3bbfc89feab855dd0b06ae48be35b6ec6cc0b167172e1eefa36a1167351",
+      "crc32": "f91f954c"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A-0929_weld.xlsx",
+      "bytes": 44691,
+      "sha256": "358dc18afa62603076f334525b44cc37c03ca03be1b376f77ae23cc6b7ecc3f7",
+      "crc32": "041ad358"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A-0929_weld.xlsx.jackc-review.json",
+      "bytes": 355223,
+      "sha256": "f7ebb66877193e36de097fa6198dfe716c9f15e4bc2aa0fbee8003c7020afd2a",
+      "crc32": "4cec0b40"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A-0929_weld_overview.ply",
+      "bytes": 53294822,
+      "sha256": "39728db8d6406bca4a340a4a604cde85ec288362404a34f74589961497f6ec4f",
+      "crc32": "78ac7038"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A-0929_weld_welds.json",
+      "bytes": 3679678,
+      "sha256": "eb14fc653bafab3f864dd672cb39a5ad8238ff2a179481c6553084db69fe62be",
+      "crc32": "cf66f4d1"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A-0929_weld_welds.ply",
+      "bytes": 4173756,
+      "sha256": "1e9d9e1c101f5c34b6e2d328533cce8559a61a554f64c06389f221d49dd22e35",
+      "crc32": "ada32535"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A-0929_weld_workpiece.ply",
+      "bytes": 49121295,
+      "sha256": "13036250ef3fa61c4b7a649f5d0d182852c1b5d4839cbeff72e644fc43cf3ee1",
+      "crc32": "421c78d2"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/442-DK2A.stp",
+      "bytes": 426049,
+      "sha256": "08e52b25f012a08476f3445040231d5b133fee1dd8c57e41358ea264d30e456e",
+      "crc32": "57204dff"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/_442-DK2A_GW1.pcd",
+      "bytes": 296586,
+      "sha256": "ad555af4cde49b30e769963f9f8bcceaf676e44005a89b28ccc1cbd3a4b05023",
+      "crc32": "9e3aecbb"
+    },
+    {
+      "path": "标注数据20261004/真值/10-442-DK2A-0929/_442-DK2A_GW1_AllFaces.pcd",
+      "bytes": 8515586,
+      "sha256": "cf5942e376e8361cab7c2ed1e82c5d6bbf5ca53e2917ba7b4bfeaf387b430e3c",
+      "crc32": "901ae137"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1-0929.png",
+      "bytes": 35309,
+      "sha256": "c06d8a9316a7f790f704ec9abfd25e31acadf9598bbf6946c1486ea8b08aff49",
+      "crc32": "2f5e4805"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1-0929_weld.cbf",
+      "bytes": 356252,
+      "sha256": "49c0fa4b5c65a478eefaab9111d454300fb6099d9bfdb295600f04d4ec203dde",
+      "crc32": "1896066a"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1-0929_weld.xlsx",
+      "bytes": 42644,
+      "sha256": "1aa746ce00521289109d355105b29a3ee61135c53e6e98062d2fd016a06add70",
+      "crc32": "79617a05"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1-0929_weld.xlsx.jackc-review.json",
+      "bytes": 342288,
+      "sha256": "34f3bf4a1ecc577900b3530e8168b6b75e89bfe7da0471d592fdf9ab9e568ff7",
+      "crc32": "1f146eec"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1-0929_weld_overview.ply",
+      "bytes": 82716710,
+      "sha256": "f3b9acf6489bb90559aacbbc3288262f57dda51ed58de2b895f628268ea63a78",
+      "crc32": "f5e914d8"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1-0929_weld_welds.json",
+      "bytes": 1894725,
+      "sha256": "1c1cf9014cd85f2182ed622b16487097e8fb6596506b8246b4fe0244271016bd",
+      "crc32": "3ec2f79e"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1-0929_weld_welds.ply",
+      "bytes": 2164496,
+      "sha256": "40d7ee07a0934ac33710d9d96abf665b22425813cad3c3624863df377c8d9a67",
+      "crc32": "e18fcf10"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1-0929_weld_workpiece.ply",
+      "bytes": 80552443,
+      "sha256": "b0f74c2db3de39fd2af528c282ac361b48652819d2534118082d6014bc804804",
+      "crc32": "52a820cc"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/442-TB2C1.stp",
+      "bytes": 415315,
+      "sha256": "72f9ca8f0de3ce8ba29b9870c00cc30764ae3c23fed742a3c6c1997a966226ef",
+      "crc32": "22e10385"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/_442-TB2C1_GW1.pcd",
+      "bytes": 335306,
+      "sha256": "f139e7a9923773abbc74bf5735318874b13a493ff376fd0af3e1f263ddcbc49e",
+      "crc32": "f96f042b"
+    },
+    {
+      "path": "标注数据20261004/真值/11-442-TB2C1-0929/_442-TB2C1_GW1_AllFaces.pcd",
+      "bytes": 8486744,
+      "sha256": "a2987bf87d070051b85b9d5b5a31b1efe1c83824849bd2cadc37138d0861be3c",
+      "crc32": "6e4f463a"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A-0928.png",
+      "bytes": 44738,
+      "sha256": "fcab38858a896d9139f4d5d6bc8af424a27198b0786cb111a958658a3ba4871e",
+      "crc32": "8e00e909"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A-0928_weld.cbf",
+      "bytes": 384612,
+      "sha256": "85f13efe4c22630b58e1487e4cbd0342c44e5b99bed7dbf87fd84dd76e779608",
+      "crc32": "8748c7bc"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A-0928_weld.xlsx",
+      "bytes": 35532,
+      "sha256": "22c427dd18817b386d211b5fe7c05a5d19264780d21c38607eb2b223c7262890",
+      "crc32": "8795282f"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A-0928_weld.xlsx.jackc-review.json",
+      "bytes": 259399,
+      "sha256": "456119f8ec40c2ecf0d621caddba5eefe8557d35d97c3b82e4e2a2f9634c5abc",
+      "crc32": "021f5313"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A-0928_weld_overview.ply",
+      "bytes": 57001333,
+      "sha256": "2ceb1bac2ab090b5a76895f75c43668c400c4d33060704fbcd81e7e704de335b",
+      "crc32": "20e5e1fb"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A-0928_weld_welds.json",
+      "bytes": 7610113,
+      "sha256": "4f01caa2fb837f71be526bd07ec0eaf2ba3dd3f677b81f21b0432b4a2b74e920",
+      "crc32": "c6c067ac"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A-0928_weld_welds.ply",
+      "bytes": 8697522,
+      "sha256": "ea0b07a43c3ab5cd3f905974cc6ea4e1814cca0767c255e5f9f3ad77e2119bba",
+      "crc32": "659fbd7b"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A-0928_weld_workpiece.ply",
+      "bytes": 48304041,
+      "sha256": "448adcf94873697d2433c35007338b030c61f81b5d2f7033afffbabc296da4c0",
+      "crc32": "27d6381e"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/182-LB16A.stp",
+      "bytes": 1081454,
+      "sha256": "36a67760bb4d1b4baa0f176f3f5ceac600fffc8fe009974a4dc34aedd6587f45",
+      "crc32": "c245fc0b"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/_182-LB16A_GW1.pcd",
+      "bytes": 1131466,
+      "sha256": "fe378dbc439ae0e12d918af6d78257d485a9fe198705bd04a8835df531ec52b8",
+      "crc32": "700ee3ef"
+    },
+    {
+      "path": "标注数据20261004/真值/12-182-LB16A/_182-LB16A_GW1_AllFaces.pcd",
+      "bytes": 14725456,
+      "sha256": "ecffb8cfb5e0fa3392f2c481d0b3605d18e16736e3fb6ac648925e6416d28d69",
+      "crc32": "e1c82366"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A-0928.png",
+      "bytes": 36055,
+      "sha256": "6e8e81fc462c084f2ce292a15f04a2397d61a0384ad1e8dca3b55fed2ca61644",
+      "crc32": "edb022e6"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A-0928_weld.cbf",
+      "bytes": 272568,
+      "sha256": "5d6a0037bad10ce6c4b6620c74416d4280b74509e7446d0040ecce393cb5296c",
+      "crc32": "6c74e041"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A-0928_weld.xlsx",
+      "bytes": 60698,
+      "sha256": "c46802566b94f419b1cbf1b162e80d6cc7b3d24d61347730e91e44f98f021d8c",
+      "crc32": "d3bf5a42"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A-0928_weld.xlsx.jackc-review.json",
+      "bytes": 1843661,
+      "sha256": "f3be1ac18ee8a33ce8ecc2d08593f2a34f7eafb4f12a59a8c4496cbf6868a5d2",
+      "crc32": "9bb47237"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A-0928_weld_overview.ply",
+      "bytes": 124528615,
+      "sha256": "0b97c8f34220770a700976064af1737af306753bf2d5bae711ddbd2995366377",
+      "crc32": "0d564b50"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A-0928_weld_welds.json",
+      "bytes": 6853954,
+      "sha256": "939aaac087de8e81f803a626b8c65c136dbd707ef17a3e32a06f67ad78f8b188",
+      "crc32": "5533b805"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A-0928_weld_welds.ply",
+      "bytes": 7787856,
+      "sha256": "51581dad88b7435b2f02170106b191cda52b68defe82e55c4a0b32cd7f3a2226",
+      "crc32": "5da07ba4"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A-0928_weld_workpiece.ply",
+      "bytes": 116740989,
+      "sha256": "abebe0cfd35f4642d70ab4d5eb2075a549cfa54f537f7edef497e7807f033788",
+      "crc32": "3c3e3817"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/182-TB45A.stp",
+      "bytes": 1665998,
+      "sha256": "16642307f2b37af0a0a45c61f5390f986d324496c0fc4aa7f86e2a4eb70ddd73",
+      "crc32": "122a0ce1"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/_182-TB45A_GW1.pcd",
+      "bytes": 941548,
+      "sha256": "0e41386c00f84bd03dbb49fdef04318a630327f9d62613a6c95b547b348f8064",
+      "crc32": "89a2d1e1"
+    },
+    {
+      "path": "标注数据20261004/真值/13-182-TB45A-0928/_182-TB45A_GW1_AllFaces.pcd",
+      "bytes": 14598932,
+      "sha256": "e6ec5a331e2a4d8794a239f4adc97c48009d6b53528883144b1460fe961275fc",
+      "crc32": "0fa20f7e"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A-0928.png",
+      "bytes": 28335,
+      "sha256": "0274372ab7c5891a99c02601b7caf183d023f29555750d3ded7b4c72c145d837",
+      "crc32": "ea3020b5"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A-0928_weld.cbf",
+      "bytes": 114852,
+      "sha256": "c40a30250ac6586bc41e08246ddbe2d592d59254051c40bf1213d64863decee1",
+      "crc32": "8eeadd9a"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A-0928_weld.xlsx",
+      "bytes": 26493,
+      "sha256": "c00b139655e0f982afa7d2f0187de3489bebb7fab7e4a9441e790ed0af439d14",
+      "crc32": "72be2296"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A-0928_weld.xlsx.jackc-review.json",
+      "bytes": 202756,
+      "sha256": "28643ba5543d46fece5f9207866085498713e2ddf74baf2e416706cb9398afd3",
+      "crc32": "90ceb978"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A-0928_weld_overview.ply",
+      "bytes": 108326849,
+      "sha256": "d17ea28098080c2c2141bed0a6adee769acf31a4207b8001cce994f6cb52cc7d",
+      "crc32": "e974c2e1"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A-0928_weld_welds.json",
+      "bytes": 3667273,
+      "sha256": "3b07243d85c0c5d186a37380d6b610997c06caf2b6802fb560784bb30de655ea",
+      "crc32": "307a3d10"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A-0928_weld_welds.ply",
+      "bytes": 4177873,
+      "sha256": "30076fbfede9ea9d0f96647cd3dfaafb1b4f4912d47559622c756f1091d5ff26",
+      "crc32": "9611060e"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A-0928_weld_workpiece.ply",
+      "bytes": 104149205,
+      "sha256": "3b733069075673c615c14e2d8710081654a22488cf3761ff4ec37dc7df6cb2a3",
+      "crc32": "40226d8c"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/192-TB34A.stp",
+      "bytes": 891085,
+      "sha256": "011162048572d10eb787da1a24cc594935f28ef18b8794201d67c41ff8bb9165",
+      "crc32": "32c5b4b6"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/_192-TB34A_GW1.pcd",
+      "bytes": 575571,
+      "sha256": "5dda6e4ccf2a88c8e6a3426b69ebdf0d43ddeecbda296bf801b9dbc514d8f9b8",
+      "crc32": "2d4f82b6"
+    },
+    {
+      "path": "标注数据20261004/真值/14-192-TB34A-0928/_192-TB34A_GW1_AllFaces.pcd",
+      "bytes": 13258433,
+      "sha256": "f88d17c6e24efc7578f5b537856b12e023e604d4760ce0edc504181916579229",
+      "crc32": "31f83c1f"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5-0928.png",
+      "bytes": 52530,
+      "sha256": "7a558a7b41fa878f5b6501daed1e14b712fe3647bd5c24598f602aed44b12000",
+      "crc32": "699ede05"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5-0928_weld.cbf",
+      "bytes": 106684,
+      "sha256": "fd1b01e331ceeca59cb9fc5a3631d5e3697bf3b7b2f936631bf7518bd7ced6de",
+      "crc32": "884260b7"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5-0928_weld.xlsx",
+      "bytes": 38537,
+      "sha256": "0cfbd16486ba2b187f969a3883541f0e8665a49f2872f2362691f5474a57605c",
+      "crc32": "552108a6"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5-0928_weld.xlsx.jackc-review.json",
+      "bytes": 395084,
+      "sha256": "e722ba6c82e4a363a92df315b1cee37af9497fb32c67816236022c05b1b81db0",
+      "crc32": "058bc392"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5-0928_weld_overview.ply",
+      "bytes": 63632363,
+      "sha256": "d098d009d6b9cfd258bbb2679ef3c15fc215661efa695a2a3f9810964c2f71b0",
+      "crc32": "44fcad69"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5-0928_weld_welds.json",
+      "bytes": 3744608,
+      "sha256": "24853876969267ffefe73d3e840f2525a5fe2909c7e9a3b6ee397527c6f6b2ea",
+      "crc32": "f9fe3f77"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5-0928_weld_welds.ply",
+      "bytes": 4251296,
+      "sha256": "c97951ba8545295a98571dc18f4f030ac1456c46b0a634e0ef78df739c8c1e83",
+      "crc32": "0665d926"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5-0928_weld_workpiece.ply",
+      "bytes": 59381296,
+      "sha256": "932b35ddc21b142dce3fc81a11b00035c3c3b796b2dfd69974c2775a7e152339",
+      "crc32": "46651207"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/201-122315 -5.stp",
+      "bytes": 973573,
+      "sha256": "61e9776ae37f29bcc7ab2af9d6726415e749e6a3c69b592c7eb3301009357613",
+      "crc32": "022b246a"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/_201-122315 -5_GW1.pcd",
+      "bytes": 326171,
+      "sha256": "2e56b3a5f24b6a95084b77e0e05dfb13b9fb07688094d44849c7822a6f054ee3",
+      "crc32": "2e03df6d"
+    },
+    {
+      "path": "标注数据20261004/真值/15-201-122315 -5-0928/_201-122315 -5_GW1_AllFaces.pcd",
+      "bytes": 13267220,
+      "sha256": "a82a927b3934ad60e31a905bdaf855eda3166d67cb52dba4910781148ba03484",
+      "crc32": "a4b8a712"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6-0928.png",
+      "bytes": 37885,
+      "sha256": "70cea1886cae9d6850870697ab8a59e13c5c82372b5454f6b141873b3beb5a69",
+      "crc32": "9603e3a2"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6-0928_weld.cbf",
+      "bytes": 198844,
+      "sha256": "35115b79b2a534b69a57c6836ccc21d4cf79dcb87d04af21729c8071869ebfa2",
+      "crc32": "f3f89eca"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6-0928_weld.xlsx",
+      "bytes": 45473,
+      "sha256": "83bd7fb1d3856ebc1203601f065e9b1b6f930dbf59a76fd31ba4fdcf91388931",
+      "crc32": "9c6582d0"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6-0928_weld.xlsx.jackc-review.json",
+      "bytes": 1033368,
+      "sha256": "6fd9b3d1f5f52b5364e8145f0d1139dc9ec9c1892ba77b78a596bc0dfd7c3671",
+      "crc32": "42ac04f0"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6-0928_weld_overview.ply",
+      "bytes": 68110350,
+      "sha256": "ee80b5091c5163bb6ea1f754f8073f2e1dbd5074dc117c1725f2aa763c24c710",
+      "crc32": "a1741cf5"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6-0928_weld_welds.json",
+      "bytes": 4593003,
+      "sha256": "e32ccfceeede430a66e53c10d9f9da6a123c969c6be4d90bb414d3d5980d0af6",
+      "crc32": "988e9c3d"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6-0928_weld_welds.ply",
+      "bytes": 5209590,
+      "sha256": "142caf95874f302a9f06a12354b895125a98deb26e1640efeea91eb71569011b",
+      "crc32": "ca223125"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6-0928_weld_workpiece.ply",
+      "bytes": 62900989,
+      "sha256": "189a5bda5572a1277daa794bf3cdd9eb0e5b29f1ec4c8f65e5147a2ebc038477",
+      "crc32": "e2057cf6"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/201-122315 -6.stp",
+      "bytes": 1017254,
+      "sha256": "76f1efed0a61ebcfce242e67e6cc4899cdd34fd29dce24e86ade6a635913129d",
+      "crc32": "855d0694"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/_201-122315 -6_GW1.pcd",
+      "bytes": 626988,
+      "sha256": "f5cd07948ad4d7b718126b96cc83a5199a4297d859a53720771fcf0418923c91",
+      "crc32": "0b734703"
+    },
+    {
+      "path": "标注数据20261004/真值/16-201-122315 -6-0928/_201-122315 -6_GW1_AllFaces.pcd",
+      "bytes": 20090282,
+      "sha256": "45f5405b464bfa152b12da334f6980c8c633b5a5fa498ccda8c9689108390d1d",
+      "crc32": "9e281583"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8-0929.png",
+      "bytes": 16934,
+      "sha256": "15b860d75e15aae39711a7260ab28d4db479adcca122edd143613b63e46db7ae",
+      "crc32": "e00c70fd"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8-0929_weld.cbf",
+      "bytes": 173308,
+      "sha256": "2f754c00c6c6f285dbbb92d86a10d8394a6f00c3375ccaa7a8877285ec61dc17",
+      "crc32": "1ef3de31"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8-0929_weld.xlsx",
+      "bytes": 26394,
+      "sha256": "321b266efb2749af8a79bd65fbaeccf4bc86c14646415e6cbdd5676a8ac8a8de",
+      "crc32": "35ba2f23"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8-0929_weld.xlsx.jackc-review.json",
+      "bytes": 260254,
+      "sha256": "073b829be2ce5b30bdc965f51e781026f50b7d46f3e7f37bf0ea474a52eaad5f",
+      "crc32": "6463dcb1"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8-0929_weld_overview.ply",
+      "bytes": 117292366,
+      "sha256": "3db192b05ccdc33ceddd5d8183f2edb76a8e5f716ffbc4b40f6dda90ca76b680",
+      "crc32": "17b72ffd"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8-0929_weld_welds.json",
+      "bytes": 1929839,
+      "sha256": "03bbe96928b29503c83b73349cd339bce34f612e46ac3ff1805645e174233338",
+      "crc32": "ea1c8272"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8-0929_weld_welds.ply",
+      "bytes": 2189327,
+      "sha256": "d20d92827527aad8460fbc7bf358ca5c66b65c94db3c812244a12ef084e80397",
+      "crc32": "bbc15499"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8-0929_weld_workpiece.ply",
+      "bytes": 115103268,
+      "sha256": "83b980a22bcbe65b61763ab2b72e44fe7ba2db88a5c55eaf7c2a86c14ffd48ca",
+      "crc32": "77a9c103"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/201-122315 -8.stp",
+      "bytes": 518470,
+      "sha256": "12cec2cfb83176d4fec4c003ec1215f53e15ffdd9cc91a281fc04ef95b9e30ec",
+      "crc32": "66554252"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/_201-122315 -8_GW1.pcd",
+      "bytes": 326142,
+      "sha256": "b63f3cdf0dd9c578b88c981c408ed119b3c99a17c00e2c9f0ece5a8cfe18be34",
+      "crc32": "d832070d"
+    },
+    {
+      "path": "标注数据20261004/真值/17-201-122315 -8-0929/_201-122315 -8_GW1_AllFaces.pcd",
+      "bytes": 11887052,
+      "sha256": "8299870b8d246365951b6a03b755c4fec19dbb9e5fbabaa48b239bacb5e68e70",
+      "crc32": "d095aae9"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1-0929.png",
+      "bytes": 28753,
+      "sha256": "94ba301d19c3b24693829bc3c552a02d53fb0df7cfe5320fd98daf130d4f0064",
+      "crc32": "ea31d2ea"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1-0929_weld.cbf",
+      "bytes": 135328,
+      "sha256": "9595ec6b7633b6d4b0b8ef557c1ac222a0c9d8cc6f831806d704f010b6b59980",
+      "crc32": "aea2a3e3"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1-0929_weld.xlsx",
+      "bytes": 18596,
+      "sha256": "9a97c6b31a40a76e0b8ee97ca4c56c8766a314c93ec280465ef8594b43bdf6d5",
+      "crc32": "7fc5f396"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1-0929_weld.xlsx.jackc-review.json",
+      "bytes": 165864,
+      "sha256": "a2cb425cf57c198951cb4ba21b76d352b7b5281e183f50ef3480afb8ef5443b2",
+      "crc32": "bd80d3d8"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1-0929_weld_overview.ply",
+      "bytes": 45351664,
+      "sha256": "05a47f61c25b77fadd887fd8a1e6000dddefeba879366f9360168c499c5bb655",
+      "crc32": "5685c453"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1-0929_weld_welds.json",
+      "bytes": 3773671,
+      "sha256": "f1841e44336fa4a19edb7032eccb660af3a84f32752583781e81450e5308ccd7",
+      "crc32": "4242308b"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1-0929_weld_welds.ply",
+      "bytes": 4347084,
+      "sha256": "081b0ebd5b72de0d65c5dd52259fac5b2908df9c03730f36eb8b706014fc0f60",
+      "crc32": "573664fc"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1-0929_weld_workpiece.ply",
+      "bytes": 41004809,
+      "sha256": "730791bdf1632790b8b8950e303b9b64147b135371dcdefced7b2ed9652bcd51",
+      "crc32": "4de490de"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/201-TT1A1.stp",
+      "bytes": 997545,
+      "sha256": "976cf87f75f1e681f9f1826954f318b1aca4501f5dba9c4af05c3c4770d570d9",
+      "crc32": "38f4c31d"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/_201-TT1A1_GW1.pcd",
+      "bytes": 1256752,
+      "sha256": "637d0e6858fa98df3b972f742ebc0b16c1ef8bd05a5b7763da6d5ad5dbd68211",
+      "crc32": "bd21dc07"
+    },
+    {
+      "path": "标注数据20261004/真值/18-201-TT1A1-0929/_201-TT1A1_GW1_AllFaces.pcd",
+      "bytes": 15166517,
+      "sha256": "3e53abda3568e63e46f88aa3c66fbabc9551a461ab25ea2e63cfed8dd13415bc",
+      "crc32": "9a998c7f"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1-0929.png",
+      "bytes": 24789,
+      "sha256": "8cba77ae87e79edfd5602585136a6962a50f7cef37810eabbf13de8a0fa60bae",
+      "crc32": "272f48d8"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1-0929_weld.cbf",
+      "bytes": 93992,
+      "sha256": "3b7fb7532e180081873c5482366c3ed96167f76f7bed3090bd4a8c209746d2ce",
+      "crc32": "cd9af2bb"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1-0929_weld.xlsx",
+      "bytes": 16223,
+      "sha256": "4a1ba54cbe82135b41f058b772e0e954713981369e4c2833d9c87660829c3b4e",
+      "crc32": "b12d30fd"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1-0929_weld.xlsx.jackc-review.json",
+      "bytes": 159688,
+      "sha256": "01d668dc5eaf631d04dfadffcf1b2ada389279400b9ed75c25d775977b303aae",
+      "crc32": "b3487068"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1-0929_weld_overview.ply",
+      "bytes": 80708526,
+      "sha256": "554e3bc1ef3a3a5bb33bf4738ee9d38e6f2a432e9c4ccbe72124fb3bac4b0ed3",
+      "crc32": "9b800f35"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1-0929_weld_welds.json",
+      "bytes": 12588003,
+      "sha256": "5faa1327479cfec5495d0a640df8459531b4718bd291716bc60a181c0e2664f9",
+      "crc32": "3044d315"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1-0929_weld_welds.ply",
+      "bytes": 14544405,
+      "sha256": "3b3700a0534267827e556dd65726da18d7c6e4f90b4bec4bfe7678fa03b299d9",
+      "crc32": "6f2c52ae"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1-0929_weld_workpiece.ply",
+      "bytes": 66164351,
+      "sha256": "e8b5785b158d4faf01c501b53d8819ec172bfc86f06022e4a826896cccb9822f",
+      "crc32": "99f4965a"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/227-TT1A1.stp",
+      "bytes": 1288825,
+      "sha256": "c315ed8f6ba6b9de7eb00a2dd59ec0b9a11f745d6207a84afb8d7acfeccdd7fe",
+      "crc32": "d9b1c7d8"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/_227-TT1A1_GW1.pcd",
+      "bytes": 2905754,
+      "sha256": "7a1f42e2f58522b2623b91a00b342462477e15d98018f3e07cff68ca0f4742d0",
+      "crc32": "ff819723"
+    },
+    {
+      "path": "标注数据20261004/真值/19-227-TT1A1-0929/_227-TT1A1_GW1_AllFaces.pcd",
+      "bytes": 37135505,
+      "sha256": "1571e81e145b00ae4b18a8cc26a1e7a9d101d85d83cb93b58f62137b0d6561d3",
+      "crc32": "8e4d7ac5"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C-0928.png",
+      "bytes": 22082,
+      "sha256": "4128511d557109695c5e98ff070e80dfccfa9a90d2c2eb6900b1f344d1915332",
+      "crc32": "bc0e28b3"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C-0928_weld.cbf",
+      "bytes": 153640,
+      "sha256": "ea28627cb962d0af1ed125f4df98a2cdd9589935a2d94dfb00bc3ff88d6193b0",
+      "crc32": "5e2c377c"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C-0928_weld.xlsx",
+      "bytes": 21699,
+      "sha256": "6247067b1b8727696e8b4ea6c896372706cc1da0ceef0756f813d4b2570c9341",
+      "crc32": "0f37bca2"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C-0928_weld.xlsx.jackc-review.json",
+      "bytes": 109620,
+      "sha256": "95e1b0bcef469ee10f29a746674f4c29efc835a29d4c0934aa95fd2bafab3e18",
+      "crc32": "7c4b8955"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C-0928_weld_overview.ply",
+      "bytes": 129782320,
+      "sha256": "cab6dd444cd3ba583cedde12efdbb29a572d432a90be5f36c345f89ebfa45a0d",
+      "crc32": "b6e8ac4e"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C-0928_weld_welds.json",
+      "bytes": 720438,
+      "sha256": "e82fa4f0a4ee649dd44d1146e6aeb1e02ecf6c92b8dbfea7a3203ec30d16cb9d",
+      "crc32": "3d8a3949"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C-0928_weld_welds.ply",
+      "bytes": 816849,
+      "sha256": "e3c4640a5661ac401756889aaa50aed24024edb489a7f34800d0578d5d3e6c4c",
+      "crc32": "f170fa94"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C-0928_weld_workpiece.ply",
+      "bytes": 128965700,
+      "sha256": "ca1f841a99aa8996a96d53b19395109158ab9627c1fc84d836905ed6329f7ea3",
+      "crc32": "0e3c3f75"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/161-FR62C.stp",
+      "bytes": 347000,
+      "sha256": "fc8ffb0acc460ae645f5be0a09e5e95f845951044e0fc0ac6fa93568948c07f8",
+      "crc32": "2b59d1e4"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/_161-FR62C_GW1.pcd",
+      "bytes": 393248,
+      "sha256": "479a9943408e7548d967694f042496ef264c07b7d7616936d30b5c6a73c1fe59",
+      "crc32": "e32f0cc5"
+    },
+    {
+      "path": "标注数据20261004/真值/2-161-FR62C-0928/_161-FR62C_GW1_AllFaces.pcd",
+      "bytes": 14131826,
+      "sha256": "358cb600d5a402d1574e0bc6f2f557c708f38030707c94fc0fc6b996e3418eb7",
+      "crc32": "feac9625"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A-0930-lp.png",
+      "bytes": 11190,
+      "sha256": "e9a1b8f005d76af5aa1b99723bf5ce0b43af61b4ef6d538f93237a8681ba422b",
+      "crc32": "2f3dcd79"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A-0930-lp_weld.cbf",
+      "bytes": 579172,
+      "sha256": "7ac7d666356e8302dacdb2cef70e2591a563ee3367655b1fa8847d6d2b83d55b",
+      "crc32": "4152c23c"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A-0930-lp_weld.xlsx",
+      "bytes": 85246,
+      "sha256": "795584ee25afcc7b7c647a3165de10d4b66f391df1c73ae222448015c9273e6d",
+      "crc32": "488f890d"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A-0930-lp_weld.xlsx.jackc-review.json",
+      "bytes": 3161989,
+      "sha256": "7b1200cd23de206b1d18aa6ac32e715b2ebe0f3e477d483453180769f8cb75a2",
+      "crc32": "848848ef"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A-0930-lp_weld_overview.ply",
+      "bytes": 86581234,
+      "sha256": "8edfb2d642b59cc8dac2a274b5d964c90632f6932cb8c197ad62fb12892fb3b2",
+      "crc32": "78e1471a"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A-0930-lp_weld_welds.json",
+      "bytes": 8246010,
+      "sha256": "b93bfd47078b8f499fa8876df168ab79c66ae71b77f7b54ad128a897726e10b8",
+      "crc32": "71a2b094"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A-0930-lp_weld_welds.ply",
+      "bytes": 9323908,
+      "sha256": "952b07feacb55c8b14c242f60b3c5958edd2b4f848f8549a191187b0060c3f60",
+      "crc32": "de564a9d"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A-0930-lp_weld_workpiece.ply",
+      "bytes": 77257556,
+      "sha256": "f073e2ef4b3946c4025b664a3eec8b9f69d7dbf709f1b8255fdf9bb0e438965b",
+      "crc32": "bd050b48"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/563-DK1A.stp",
+      "bytes": 1723245,
+      "sha256": "f0f26ed22ca46a31146250d87c9510e4f29407782c608b6398cfe3e2035f4590",
+      "crc32": "3f907d8f"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/_563-DK1A_GW1.pcd",
+      "bytes": 922668,
+      "sha256": "355eb156811ee84185e0f39d2bac4b6dbe0cfcb9a5a175b2241a709a386cb0bf",
+      "crc32": "2c9ec6fd"
+    },
+    {
+      "path": "标注数据20261004/真值/20-563-DK1A-0930/_563-DK1A_GW1_AllFaces.pcd",
+      "bytes": 14891843,
+      "sha256": "e65827f2956fd7e599f95bc11e6546c56808b85c395f7525bc1df3c59d5941a1",
+      "crc32": "b34ff501"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/563-FR50B.stp",
+      "bytes": 1155479,
+      "sha256": "bba47fce06350066225e41ae640e7a07c66b97d99152ff8d22090e478979fc6b",
+      "crc32": "5b65c307"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/563-FR50B_weld.cbf",
+      "bytes": 294068,
+      "sha256": "aa3e063b6c2f294b9e515d10335f8557c7e537cddd48fe9474aca3afd14855c8",
+      "crc32": "fe3df304"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/563-FR50B_weld.xlsx",
+      "bytes": 39153,
+      "sha256": "d5e3f5bb689e70163c4c410189fc343633a4cf75bbcd4893d6570db667ed270a",
+      "crc32": "0ac51bba"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/563-FR50B_weld.xlsx.jackc-review.json",
+      "bytes": 828426,
+      "sha256": "250bb650b9f70154644427093f0c72bf6b91d4bf4955e97d0642b10c33111762",
+      "crc32": "0b4634c8"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/563-FR50B_weld_overview.ply",
+      "bytes": 127349871,
+      "sha256": "c841c6799f39c8dd2eae5329e7b5bb59463f5c19f6b97b0379806134d3d67750",
+      "crc32": "98eacc91"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/563-FR50B_weld_welds.ply",
+      "bytes": 4087106,
+      "sha256": "0c266eb5cb873c42230034d9284f8ef51142de3bc23df6f48a4dff842255399c",
+      "crc32": "1c52687e"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/563-FR50B_weld_workpiece.ply",
+      "bytes": 123262994,
+      "sha256": "288aa7539d4a555b3bf759f3c051181ee1241eb5a50494b312c407a807d1eb39",
+      "crc32": "6778b101"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/8b129473-06ae-4571-a574-3552c4c982fd.png",
+      "bytes": 29892,
+      "sha256": "d709ec387e53f607575bb371e4289c928fc4889009f65263b92b20283bdb261f",
+      "crc32": "6150d991"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/_563-FR50B_GW1.pcd",
+      "bytes": 330442,
+      "sha256": "6b348638a89035b759aac64115067a0b23ab8f082135b214f067012fe2c8eecc",
+      "crc32": "8def490e"
+    },
+    {
+      "path": "标注数据20261004/真值/21-563-FR50B/_563-FR50B_GW1_AllFaces.pcd",
+      "bytes": 7290505,
+      "sha256": "afe9c7e5e95f7ba3205501f375acdcb25ed910b3eae2bff5e8e486d24f2e32c9",
+      "crc32": "7b5e503e"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/_LB772A_GW1.pcd",
+      "bytes": 608312,
+      "sha256": "620756ca14fbec82fd445430b84b6efd171939d4362ee17003c64960d9136b35",
+      "crc32": "cd3b621a"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/_LB772A_GW1_AllFaces.pcd",
+      "bytes": 10167207,
+      "sha256": "107a440dc30908420b4e34ff5bd1cdbf34e731e53688fa0d72e8fdc9a7a5fa3d",
+      "crc32": "7a956694"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/LB772A.png",
+      "bytes": 21758,
+      "sha256": "4d8d7c626ee1b2cd15871a243fa34400aab4e1921285fb399d75bfd9dfe7423c",
+      "crc32": "f67fd4bf"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/LB772A.stp",
+      "bytes": 748422,
+      "sha256": "3bc6968de1dc593b28ceb1f9ad307fcbe4ac3610ec61c113d0bd1d6800890185",
+      "crc32": "5a3ef912"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/LB772A_weld.cbf",
+      "bytes": 123508,
+      "sha256": "62d09f10277d9fcabfe6ce8c3988029047cb575ada6b45ddc5e97eb38ed64e76",
+      "crc32": "63060bd7"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/LB772A_weld.xlsx",
+      "bytes": 21546,
+      "sha256": "95caa114434983dc88d8405715f9d7ef0a126cd82e7804bb5aa067c383c05f79",
+      "crc32": "cb1434ae"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/LB772A_weld.xlsx.jackc-review.json",
+      "bytes": 339060,
+      "sha256": "0f81b203771a997848c1b5ae9c2f59cefd08ff1bc31de1cf9ce164b2e5fec751",
+      "crc32": "da9ea5ed"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/LB772A_weld_overview.ply",
+      "bytes": 82109137,
+      "sha256": "0e0dc70019dbb8d00aad870b40f9434db1d72f183c28021d43506545eceff9be",
+      "crc32": "effa2c4d"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/LB772A_weld_welds.ply",
+      "bytes": 4030576,
+      "sha256": "86e32fe4b5a68c5fd6980a9942ff29dbf57fb22762a9c45ca2cb522f46393532",
+      "crc32": "b859d18d"
+    },
+    {
+      "path": "标注数据20261004/真值/22-LB772A/LB772A_weld_workpiece.ply",
+      "bytes": 78078790,
+      "sha256": "f95ad5df4f835836b86678143ec72366fd88e0842a71f6abe73295506ec38461",
+      "crc32": "f94a449d"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/_tri-134-G9000-R2SS1A-C2SR2A_GW1.pcd",
+      "bytes": 1660055,
+      "sha256": "0bc7372d60a330388f7b057b5c1768dbe4c5b869214daa98988ba6c3a51039f0",
+      "crc32": "9a3ec9af"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/_tri-134-G9000-R2SS1A-C2SR2A_GW1_AllFaces.pcd",
+      "bytes": 81525827,
+      "sha256": "7658ff88c0066ede197e4f4fdaebd9410f5888ec31d30db9866fc736bf16e513",
+      "crc32": "9fc641bf"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A.png",
+      "bytes": 29714,
+      "sha256": "60713e95a941b70ac6ad76e18d43b5069bf8a500fd67c9c66f91acff0952df95",
+      "crc32": "01b920c2"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A.stp",
+      "bytes": 935683,
+      "sha256": "dc88596c474ea16f3dc9c2cdc749937d594b320513bca6d308920a2d6c4ebcef",
+      "crc32": "c7d845ed"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A_weld.cbf",
+      "bytes": 88516,
+      "sha256": "3eb727872f5fd809c0b6b51a0736b8e7e1737add95507113e1ba547c1e89c948",
+      "crc32": "c197fc1e"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A_weld.xlsx",
+      "bytes": 20314,
+      "sha256": "4c3826e7ebf2121280ad9cd56f9c5752a1932753cb88f8c3021c10aa411eda1c",
+      "crc32": "0ad2d1f0"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A_weld.xlsx.jackc-review.json",
+      "bytes": 3818855,
+      "sha256": "4f1d5602375899eb968e37a531f6c4defe5ec1aa7406fdf49fca681473c93364",
+      "crc32": "819e8d76"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A_weld_overview.ply",
+      "bytes": 57059132,
+      "sha256": "06a3f00622254a796ccfdb927cead5a3920db1953ceb18c2fbdb953d234a77d2",
+      "crc32": "ebdb31c5"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A_weld_welds.json",
+      "bytes": 2090057,
+      "sha256": "ea27f4df4fe3111d99d1c6b571437e306f4b16e4d01dca68b6cdcb53eddfb0c8",
+      "crc32": "4b68b688"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A_weld_welds.ply",
+      "bytes": 2367414,
+      "sha256": "3b82dbcb8594f6b863fa1b0bc4cc6b1d0314c4f264b15ffa6d90b2fafa08dc38",
+      "crc32": "161366ac"
+    },
+    {
+      "path": "标注数据20261004/真值/23-tri-134-G9000-R2SS1A-C2SR2A/tri-134-G9000-R2SS1A-C2SR2A_weld_workpiece.ply",
+      "bytes": 54691947,
+      "sha256": "84892a7c9df414f9537f116d640f273bab50f681f52cd7ff40a47e508baa4191",
+      "crc32": "bd1de9ac"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1-0929.png",
+      "bytes": 21118,
+      "sha256": "5b7771bb34ed257de0e424ffc75acb29219401a74eafd0c85720cd91fbaeb206",
+      "crc32": "8591b651"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1-0929_weld.cbf",
+      "bytes": 38964,
+      "sha256": "069fd3ab5677e0ea57afcce6aa68232003689b0c023a3f0f42c05fe5c4e208a3",
+      "crc32": "4012b666"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1-0929_weld.xlsx",
+      "bytes": 14978,
+      "sha256": "1d97251c0b08ad88531eef8459d8e3fd440d04dd876d648c7294c576d6a592d0",
+      "crc32": "717395aa"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1-0929_weld.xlsx.jackc-review.json",
+      "bytes": 228350,
+      "sha256": "b9546d429dde0e20d4045aa6b69b478ac4f7f5980a1bcea53bc7dbd9ce79bce4",
+      "crc32": "03d692bc"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1-0929_weld_overview.ply",
+      "bytes": 54068169,
+      "sha256": "16d9e360fae7f206dfdc4492b34eab638fff0ebb36ee3f1cef67fafa2ea6f249",
+      "crc32": "bda048bd"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1-0929_weld_welds.json",
+      "bytes": 2242801,
+      "sha256": "b3b792479854df47821b9d0ffe159775705833b8396bc00025192778a153ea25",
+      "crc32": "1e9a06bc"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1-0929_weld_welds.ply",
+      "bytes": 2581770,
+      "sha256": "b4fbc2128c9a4b3abea9cddf0581f4ccd389abc658c3deb1d410e0eeb7584071",
+      "crc32": "3af8dfd5"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1-0929_weld_workpiece.ply",
+      "bytes": 51486628,
+      "sha256": "bef3bb4667f5e2ae59c3288d1080d7939517796c8f8a23cfd2e0f0abd41f3c36",
+      "crc32": "315d7713"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/229-GR2M1.stp",
+      "bytes": 405016,
+      "sha256": "408bb9b0e0b91769741ee37beb9bb1eed48e2faba4296100593f8f2af6735c73",
+      "crc32": "4f131b07"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/_229-GR2M1_GW1.pcd",
+      "bytes": 523528,
+      "sha256": "d09c4039ccee471e4e43373fef15345abac9d1ea23464f3dab97596377b27b2f",
+      "crc32": "7c354e3f"
+    },
+    {
+      "path": "标注数据20261004/真值/24-229-GR2M1-0929/_229-GR2M1_GW1_AllFaces.pcd",
+      "bytes": 6418130,
+      "sha256": "43c48f7cf11c0769893147e6143c4af66f4ec25fe94e99f0a28180210dde10b3",
+      "crc32": "6516a2ec"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C-0929.png",
+      "bytes": 28826,
+      "sha256": "50b5a638b9aa3c91140aa3c16d25a82c3176e1359a84bbb448309850908848b0",
+      "crc32": "f162e143"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C-0929_weld.cbf",
+      "bytes": 134928,
+      "sha256": "4a75e27c136c62ad57b52da861e8a24d99c909df530e9acf6cbfbd66e1eaba6b",
+      "crc32": "2f1f63d5"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C-0929_weld.xlsx",
+      "bytes": 19194,
+      "sha256": "1d81fe5e165f68c64cdb22be089c2cb07d34bf851122e195472d5c199d86ab0b",
+      "crc32": "6756c5f8"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C-0929_weld.xlsx.jackc-review.json",
+      "bytes": 276146,
+      "sha256": "49e655a64c75acf2751974f6da75291c263c7811f0699cd06615732dcf7ea2fa",
+      "crc32": "7f593cb4"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C-0929_weld_overview.ply",
+      "bytes": 115962519,
+      "sha256": "79a66eaf5489e8f1796e71c802a5085667891e903b46dfe6d311442ffce5812f",
+      "crc32": "b978c27a"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C-0929_weld_welds.json",
+      "bytes": 1796486,
+      "sha256": "d6e9d55488aaf1022520bec1715c354e72f50e361188c8521363bf82a3065729",
+      "crc32": "3ff04248"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C-0929_weld_welds.ply",
+      "bytes": 2045791,
+      "sha256": "73bb7622796fa3e682e24c8307eb07a870da3827ae94251a1b873a0bf799a21d",
+      "crc32": "68aec5c3"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C-0929_weld_workpiece.ply",
+      "bytes": 113916957,
+      "sha256": "3fd64241cb85e2a589e77fa002f01a2595c773c65f38acb37f10a03edb819740",
+      "crc32": "bc52865c"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/671-FR64C.stp",
+      "bytes": 876615,
+      "sha256": "950935b4123c1c7114ea87a9394f1b88102bbf61b7e174164de0422cde0f0724",
+      "crc32": "650209a4"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/_671-FR64C_GW1.pcd",
+      "bytes": 299172,
+      "sha256": "10f1f2a047404646a7e694f3f68482fb0d2a0a67df0ad485ca39d6b805a23221",
+      "crc32": "56ab9a17"
+    },
+    {
+      "path": "标注数据20261004/真值/25-671-FR64C-0929/_671-FR64C_GW1_AllFaces.pcd",
+      "bytes": 10266909,
+      "sha256": "d9dacd09e1b0dae81c0335efe0e0eba00e16ab70a2f1b2204fa7a4cba14a5c45",
+      "crc32": "7cbd644c"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/_C1FR83A (20)_GW1.pcd",
+      "bytes": 247550,
+      "sha256": "474af1db2a8d5b68d2e2e080ca2c212e8a6bd1c27e24e6123c03ad58417fd5fb",
+      "crc32": "6f0cd2f4"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/_C1FR83A (20)_GW1_AllFaces.pcd",
+      "bytes": 19342372,
+      "sha256": "916c6e61a54dd8aa5062059d23c0b4fdcc2c19c5fff7382223997c867fc93234",
+      "crc32": "f021d4a8"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/C1FR83A (20).png",
+      "bytes": 10810,
+      "sha256": "156abab2b8e53696462a9cd5e75815f846d1e82bee9f7329c2eb6dafead2fbb0",
+      "crc32": "870c30bb"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/C1FR83A (20).stp",
+      "bytes": 418096,
+      "sha256": "69e8bc20a98a69d5c18c0e5fac1163dc77c1e22d3ab2b9b0cc4681c52c05d336",
+      "crc32": "0f6a65f8"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/C1FR83A (20)_weld.cbf",
+      "bytes": 35500,
+      "sha256": "0df4b9cdceea49bdaff955dd51ecee274b558897ee7344ad81aeab6d91cbc82f",
+      "crc32": "03ebf1b4"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/C1FR83A (20)_weld.xlsx",
+      "bytes": 10661,
+      "sha256": "7c92fb22e8fd1c67f8946574a51d94c6c6677a52d88283004fdee910fcc36658",
+      "crc32": "e41a0e49"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/C1FR83A (20)_weld.xlsx.jackc-review.json",
+      "bytes": 51872,
+      "sha256": "9dea47159e6661ae1f3e9cd8d9f4a564cdfb12a73b31b5560f8f15d76f6e18a6",
+      "crc32": "e205bc28"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/C1FR83A (20)_weld_overview.ply",
+      "bytes": 122426365,
+      "sha256": "d0eda35a175111f7880ccafe51a9bd91f1c4b201e642d737b9a1fdaeabaa2d0d",
+      "crc32": "d8f851a5"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/C1FR83A (20)_weld_welds.ply",
+      "bytes": 414627,
+      "sha256": "3f9eeef0799750b796111652c7070c4027d3de53532fd2ff7912451d7cf488e0",
+      "crc32": "ce2abef3"
+    },
+    {
+      "path": "标注数据20261004/真值/26-C1FR83A (20)/C1FR83A (20)_weld_workpiece.ply",
+      "bytes": 122011967,
+      "sha256": "47505a0ca213a729f128f5cbd6c26657d84e114d70ee75e39b7922ec072afcd5",
+      "crc32": "03b3f160"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/_C1FR83A (21)_GW1.pcd",
+      "bytes": 1356860,
+      "sha256": "3fd065ab0de1f5a62155ff499e90579183ef73becf4f42c33becc0d8302f8f89",
+      "crc32": "c4047b02"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/_C1FR83A (21)_GW1_AllFaces.pcd",
+      "bytes": 33244539,
+      "sha256": "54c00e759cdb0a6a9e4e42510f1e8c8ad0abd897577ef0e463a0e128353f27a8",
+      "crc32": "352debc9"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/C1FR83A (21).png",
+      "bytes": 16079,
+      "sha256": "1aaa76fc648f1ddb056ce90a33a360a46e10a0ff8de7aa205df8495c03848c2e",
+      "crc32": "f679030b"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/C1FR83A (21).stp",
+      "bytes": 468578,
+      "sha256": "5148d07e8685ad7582e678b46006c50d69ffe6301f853da52dc5e0182c6504b7",
+      "crc32": "acdba2da"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/C1FR83A (21)_weld.cbf",
+      "bytes": 172320,
+      "sha256": "6b55efddcb0f74e9650602dd31a26cf4d5207436fd3f7bcf6fb7b8bbbad470cc",
+      "crc32": "f2c4a721"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/C1FR83A (21)_weld.xlsx",
+      "bytes": 18369,
+      "sha256": "24ad0b782d8614f39608d572e2607913898083c9cc15f6cd33840df775080e5a",
+      "crc32": "b83f4f78"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/C1FR83A (21)_weld.xlsx.jackc-review.json",
+      "bytes": 190231,
+      "sha256": "0356be47012d04d0a37715876684883231b2b1801113c1f1aca92d33b2a93532",
+      "crc32": "d2b32ceb"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/C1FR83A (21)_weld_overview.ply",
+      "bytes": 48759094,
+      "sha256": "969c73b8c7ff969aa01b3ee7b086c6f07b48282a82c5b49dfa6b9c46afcb66e0",
+      "crc32": "13cbb4f8"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/C1FR83A (21)_weld_welds.ply",
+      "bytes": 545145,
+      "sha256": "421310a3f987e2c8386b8ddc5bdb55f0e963fc498ba4d0436c4fd05136ea371f",
+      "crc32": "2da685ab"
+    },
+    {
+      "path": "标注数据20261004/真值/27-C1FR83A (21)/C1FR83A (21)_weld_workpiece.ply",
+      "bytes": 48214178,
+      "sha256": "fdc0b0444538964e96645917d9d4a020f146eb888aa0c889e97bb41c20589515",
+      "crc32": "e1e70d42"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/_C1FR83A (22)_GW1.pcd",
+      "bytes": 469228,
+      "sha256": "2e02cc0ae8abb5cad8e022f6966b3cf519a7e5f300353fb851d95d2a08f9a7c0",
+      "crc32": "3ae63d49"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/_C1FR83A (22)_GW1_AllFaces.pcd",
+      "bytes": 35281122,
+      "sha256": "9e1a825864e7aa42d1afeb30b097e9ce21d543e1a55a19b40b295d978bcb6627",
+      "crc32": "4a649912"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/C1FR83A (22).png",
+      "bytes": 12658,
+      "sha256": "5a60c6d1f15af10d52ce6e1dc6673f78f2a72b1e0d095257d4db46cf3313bd5d",
+      "crc32": "f7eedd2c"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/C1FR83A (22).stp",
+      "bytes": 476916,
+      "sha256": "08c0642502e88456d0e9c6789ce340d57176383d4985b941be1c8ed6739f5228",
+      "crc32": "7c1b8a80"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/C1FR83A (22)_weld.cbf",
+      "bytes": 37704,
+      "sha256": "abf02850a7de1fd0fa740973b4617cfdecfcc1294e72b79ba85334203890c009",
+      "crc32": "b5807594"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/C1FR83A (22)_weld.xlsx",
+      "bytes": 11674,
+      "sha256": "78f8de1ddb2b4c6231554bbc6639234f66861d709757a0e17a6bd2998daecc7a",
+      "crc32": "8e306da3"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/C1FR83A (22)_weld.xlsx.jackc-review.json",
+      "bytes": 52938,
+      "sha256": "5f60a3809e840ff72c0f1a551dce30c4f78781b08f9dcf530cda3d81dbafe2be",
+      "crc32": "445fc875"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/C1FR83A (22)_weld_overview.ply",
+      "bytes": 54833052,
+      "sha256": "ee8ac3f1faa3e88fcbb69ceade5c909bc68edfafb8fbc96dcc1cc26928dbaa05",
+      "crc32": "7f1e79f1"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/C1FR83A (22)_weld_welds.ply",
+      "bytes": 1774024,
+      "sha256": "aad36b5286cb19b9329486d59b0c294da35ebbc3f1b49a60e8b36f5f6f60d6db",
+      "crc32": "a303bb3a"
+    },
+    {
+      "path": "标注数据20261004/真值/28-C1FR83A (22)/C1FR83A (22)_weld_workpiece.ply",
+      "bytes": 53059257,
+      "sha256": "e91bcb5eb1a9a1b063e0b9ec5264bfb951786b1b7a8462c628addd12d2cba43c",
+      "crc32": "ec5039e8"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/824c4037-92a7-4f67-adb8-df36197a4ead.png",
+      "bytes": 19761,
+      "sha256": "8a896917c6dc70bcc20665ce46ab71b01ec4b1c5745f05c2a9d69f18add04c5c",
+      "crc32": "d4e9c7f4"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/_C1FR83A (23)_GW1.pcd",
+      "bytes": 257236,
+      "sha256": "f84907eb818b092e3d497972d68dd385be85e0f5c6286c2eea87c5961dbd1de5",
+      "crc32": "1072d409"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/_C1FR83A (23)_GW1_AllFaces.pcd",
+      "bytes": 25615594,
+      "sha256": "c1b4076e454b5fc948c3ec616cafd3e2f1adb6c6ef28b1006de268b5d8cf0d2f",
+      "crc32": "39627b70"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/C1FR83A (23).stp",
+      "bytes": 458825,
+      "sha256": "5e7f42d0fb5bc637a18c593180bbda332016744e6789db74fe40ede8381d8c73",
+      "crc32": "d8f81bef"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/C1FR83A (23)_weld.cbf",
+      "bytes": 30092,
+      "sha256": "17134a5678c26b409dd18b4bf5975d1037117fe6d1dbaca542dca976eda2eebf",
+      "crc32": "da0883b2"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/C1FR83A (23)_weld.xlsx",
+      "bytes": 10788,
+      "sha256": "67b441cd07d8ce7ad0f69d973ee67e28fbf303b82d1b670ba3db1ae0be727080",
+      "crc32": "bc670529"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/C1FR83A (23)_weld.xlsx.jackc-review.json",
+      "bytes": 62244,
+      "sha256": "faf935f036bb92c2347590318808fcbaeb4ad861eebccdd5a72d5a0e3e8d3ed3",
+      "crc32": "3616c8c6"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/C1FR83A (23)_weld_overview.ply",
+      "bytes": 108165728,
+      "sha256": "8cf65ec0ef6fccf30f7c8d471647c6e9710f8939d6f5625fe253178b29b2f350",
+      "crc32": "823c53f6"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/C1FR83A (23)_weld_welds.ply",
+      "bytes": 841178,
+      "sha256": "78b20493e5a0801383274968e1641b4d635342002c9a7fef6180e51d4e9ce22f",
+      "crc32": "498d06d6"
+    },
+    {
+      "path": "标注数据20261004/真值/29-C1FR83A (23)/C1FR83A (23)_weld_workpiece.ply",
+      "bytes": 107324779,
+      "sha256": "8c0dde53a058633ae4ad6464c2fc68d114422120b976aea6e8db086579a91650",
+      "crc32": "3b630f02"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B-0928.png",
+      "bytes": 35178,
+      "sha256": "7411a30fe7b16d1a2e4878755fb7a6c6dca61844c71f40b79423fd67a7d33ba2",
+      "crc32": "01d16cf8"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B-0928_weld.cbf",
+      "bytes": 195864,
+      "sha256": "207009dc74fc859791903d35061f472742c53e0a933af64285f3999cd59a0d94",
+      "crc32": "fe9cd897"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B-0928_weld.xlsx",
+      "bytes": 33460,
+      "sha256": "72a8df4c69bcee1657784c6d7884eb3588449564cba566db605cdf6d59489b6a",
+      "crc32": "a2e7a088"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B-0928_weld.xlsx.jackc-review.json",
+      "bytes": 228196,
+      "sha256": "493ce9772a07a64470b57c109682b2ac027dc31e7eb93d324a5870436be7b566",
+      "crc32": "b00850fa"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B-0928_weld_overview.ply",
+      "bytes": 75470619,
+      "sha256": "53f21651b9416c06dec6a6115d6a259b56ed240648d4c4e59c22a4b28976f5ae",
+      "crc32": "9f4c8349"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B-0928_weld_welds.json",
+      "bytes": 1431204,
+      "sha256": "4393da70e6b34e146f2eff37477870b9a1e0c252e10d26fe588af75ef324510e",
+      "crc32": "969bf3b9"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B-0928_weld_welds.ply",
+      "bytes": 1623707,
+      "sha256": "a6aa46768dc4a8a67e46891f0835043c694dc3565a36c98e9f7f8d7306abd760",
+      "crc32": "f4ac30a0"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B-0928_weld_workpiece.ply",
+      "bytes": 73847141,
+      "sha256": "b83054a62bdea84ab0847bf3ad38b9145b1dd98a8de39043f9b2017b6a7c075f",
+      "crc32": "50a5f877"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/161-SR2B.stp",
+      "bytes": 349337,
+      "sha256": "02ff3e92027df65aa2bcc6935149098ea2ba24d8c422a92c5a64b9fbe18a7f01",
+      "crc32": "2bd1429f"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/_161-SR2B_GW1.pcd",
+      "bytes": 510495,
+      "sha256": "00f7480b0ed3be22faa8aeb5aacede34e1aa31bf31e2f5964c4f7f1f211afa98",
+      "crc32": "7f2f7224"
+    },
+    {
+      "path": "标注数据20261004/真值/3-161-SR2B-0928/_161-SR2B_GW1_AllFaces.pcd",
+      "bytes": 19760262,
+      "sha256": "4ac7b74032d7d2f07387c23a3da4ce2386a5c3592bb50a877e8a86cdca9dcad1",
+      "crc32": "e09ef52a"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/_C1FR83A (13)_GW1.pcd",
+      "bytes": 318138,
+      "sha256": "f318f06b4a85e34f605d8918d03e1b9a6a381412146faf2d61434ab819771843",
+      "crc32": "4c1649b1"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/_C1FR83A (13)_GW1_AllFaces.pcd",
+      "bytes": 25683918,
+      "sha256": "ae671be49d142a385037a89dcd0430b6637fd9f26b54d9b1273fa06ff252935a",
+      "crc32": "9657ed38"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A (13).stp",
+      "bytes": 740305,
+      "sha256": "bece576de0dd18827af009bc0cf8aae23ba82f1a7cf0b232b320233a0761f235",
+      "crc32": "8380aaa8"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A (13)_weld.cbf",
+      "bytes": 100692,
+      "sha256": "f7a086f59498131b884322624f7e2a4dba5e0044835b472caa13314aa0ee9e9a",
+      "crc32": "2ed4c0b6"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A (13)_weld.xlsx",
+      "bytes": 22829,
+      "sha256": "7ca5ed6fdbd6f6f19363900a803c206b3411d7c55439104f1d14d8a99a1479a7",
+      "crc32": "be01132a"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A (13)_weld.xlsx.jackc-review.json",
+      "bytes": 4538375,
+      "sha256": "0c50fe33610a94f866440de0e07dd24d1e75546aaeb0eec1f7ec45efa428734b",
+      "crc32": "17b9639d"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A (13)_weld_overview.ply",
+      "bytes": 44549943,
+      "sha256": "0bbe6acf34e9e0a9172351c341b5fd2b14eb74e6c68a48df06742e2dcc3847cb",
+      "crc32": "24361820"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A (13)_weld_welds.json",
+      "bytes": 1367762,
+      "sha256": "775fcce3b513fd89fd2326d204f50646fc442010c7fad396bc8d0916c1264d00",
+      "crc32": "2bf344e6"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A (13)_weld_welds.ply",
+      "bytes": 1546184,
+      "sha256": "5cdc17e0d7a9c3936a5c085a273a52b8c6beda408b60a6342370b1e842e4de65",
+      "crc32": "199a2fb0"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A (13)_weld_workpiece.ply",
+      "bytes": 43003988,
+      "sha256": "e07a82c21e681a53720599f14478976af9135928da4eef317b1c99518266d599",
+      "crc32": "462ff6eb"
+    },
+    {
+      "path": "标注数据20261004/真值/30-C1FR83A(13)/C1FR83A(13).png",
+      "bytes": 25476,
+      "sha256": "044f5f3b9211b5c2673dacf74e330de2fbb575a6902f3af89376eadf4caa75f8",
+      "crc32": "93b87891"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/_C1FR83A (14)_GW1.pcd",
+      "bytes": 339714,
+      "sha256": "f5148717b89c8de4637d9ebf3660c9acecc2b21916097ba1110100b81193b4ab",
+      "crc32": "06aa1840"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/_C1FR83A (14)_GW1_AllFaces.pcd",
+      "bytes": 39723458,
+      "sha256": "0b7bedf753403dff2b45ac1ea256fc556a6a9b507ed9c2e0fdd6e3915c2273f2",
+      "crc32": "1668782b"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A (14).stp",
+      "bytes": 683718,
+      "sha256": "8fa202de77748453d114406d57008ea285b5612c8b548eab1959d03c7981f5d8",
+      "crc32": "cff10e6f"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A(14).png",
+      "bytes": 31287,
+      "sha256": "aa27c7d06c5c484634399e3c8577a4e9cd3b8fa35087964ad15cf28077979bd2",
+      "crc32": "dd44176f"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A(14)_weld.cbf",
+      "bytes": 85024,
+      "sha256": "13509958d06fb561bbc004363e24570c6b1e24ea849fbf178fd598d1b62b108a",
+      "crc32": "95134d46"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A(14)_weld.xlsx",
+      "bytes": 19507,
+      "sha256": "782b29a73f6517fe70a7e4bad3bf620ec592194cdf834cccdbb37c83e4f746cf",
+      "crc32": "05714f4c"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A(14)_weld.xlsx.jackc-review.json",
+      "bytes": 7632653,
+      "sha256": "0072fb98ba8c581c9d5173185ef87a6821aae0150ebebf901bab7d4b606388bf",
+      "crc32": "9280b9c3"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A(14)_weld_overview.ply",
+      "bytes": 33518379,
+      "sha256": "484d53832ec81725f5c1a45f28733e6efaae3aefdce403ac454e90f6cc488496",
+      "crc32": "0086b378"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A(14)_weld_welds.json",
+      "bytes": 658220,
+      "sha256": "a047356052d00b8ab395053346d5fb9f7b732796e09d3d94169bd78b5a2dd1b4",
+      "crc32": "46fb59fb"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A(14)_weld_welds.ply",
+      "bytes": 747555,
+      "sha256": "71a82a77cc2c4d4a8020a2e9b2e02c2fc83bdf2f88b68d3ebe93b1d79201d954",
+      "crc32": "4bbafa19"
+    },
+    {
+      "path": "标注数据20261004/真值/31-C1FR83A(14)/C1FR83A(14)_weld_workpiece.ply",
+      "bytes": 32771053,
+      "sha256": "52f762b431eeea277b8a4a5c7ce977b0212026e5084f9d7016dd239677184345",
+      "crc32": "a90a7c44"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/_C1FR83A (15)_GW1.pcd",
+      "bytes": 1152192,
+      "sha256": "43369b09c23f566e6d616a7a4f3f1487f659c890c79cf7c5c166f37dc1ae296a",
+      "crc32": "de271086"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/_C1FR83A (15)_GW1_AllFaces.pcd",
+      "bytes": 53207007,
+      "sha256": "d87ad416247342aa11d195916d2c655148557c7831a66e2eac223087fbdc673e",
+      "crc32": "80ae3519"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A (15).stp",
+      "bytes": 830594,
+      "sha256": "2c5ea8e1cb8794fc7163599aa877f6fc831f7d3e5d4177a9a9493ba579373221",
+      "crc32": "6dc8034d"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A (15)_weld.cbf",
+      "bytes": 57160,
+      "sha256": "6fa1c5fc01aae77bfcb3443eae30d8836fc8435081493f51eb775c121d0352cc",
+      "crc32": "d5ffd80c"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A (15)_weld.xlsx",
+      "bytes": 15819,
+      "sha256": "405317bdb4153871f10121d43ca8059d1cec6f40d4af7eccbd53aa3cd6021f04",
+      "crc32": "76b7edeb"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A (15)_weld.xlsx.jackc-review.json",
+      "bytes": 1934829,
+      "sha256": "8854509ab7e4ba3e03c116091b01d953f76e27b7224e80dd263f9fd6f95fa6e0",
+      "crc32": "87db83c8"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A (15)_weld_overview.ply",
+      "bytes": 71714485,
+      "sha256": "6f9c236bd3fa50d3e844d96f2d0b12c89cab5c35130bd6641f9eac157101878b",
+      "crc32": "81afd13c"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A (15)_weld_welds.json",
+      "bytes": 4725700,
+      "sha256": "2d9069e52f70e3eaefee5b9db1f42b883efdc4da73e9d034da28f4ce3c4dabdb",
+      "crc32": "2035f957"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A (15)_weld_welds.ply",
+      "bytes": 5385622,
+      "sha256": "17011ce7cb760f56ba12899efd0c173831dc644662cbac054ee96ae066a323c5",
+      "crc32": "1c5823bf"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A (15)_weld_workpiece.ply",
+      "bytes": 66329091,
+      "sha256": "bce02fbadc798189e12e8d5a3d7ec0c72e7442970105323a2d1929e5cdf0d26d",
+      "crc32": "cc9933e2"
+    },
+    {
+      "path": "标注数据20261004/真值/32-C1FR83A(15)/C1FR83A(15).png",
+      "bytes": 25453,
+      "sha256": "5b988185e378f5ec5495c32200e8a8a2ae3edb60f2a7a1dae7fe99e4ef50c65c",
+      "crc32": "db5f6a52"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/_C1FR83A (16)_GW1.pcd",
+      "bytes": 566668,
+      "sha256": "a853409a780e4e8f8c3b7ca6d4de0aae3b46fa397a135a6504b36226d5f6a30a",
+      "crc32": "aaad33c6"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/_C1FR83A (16)_GW1_AllFaces.pcd",
+      "bytes": 45375123,
+      "sha256": "84ce0e2c2dc6ae7a6c5bcf50d1fea2be99354dc63bdef1d027338e3fd31d6222",
+      "crc32": "e27e5f0f"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A (16).stp",
+      "bytes": 521913,
+      "sha256": "077edb1950a5452d91046ee9315aa77c0f73ea570ad50956fc61baf281199e9c",
+      "crc32": "9ae4cebc"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A (16)_weld.cbf",
+      "bytes": 22636,
+      "sha256": "5bdb216e37c814976c171d2216518cd4517ced5a957fa3af235b3acf6ed71029",
+      "crc32": "9be7368a"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A (16)_weld.xlsx",
+      "bytes": 10533,
+      "sha256": "9edeefc053a865ba1fde8dfd8632e57957f1a3ef4a1b614aeaa5c78a89ac2627",
+      "crc32": "869b2d7f"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A (16)_weld.xlsx.jackc-review.json",
+      "bytes": 604820,
+      "sha256": "dde51222be3e60f21ec67a539a549ccb0182d70fa0fd01abe704278355aefb5b",
+      "crc32": "da41897b"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A (16)_weld_overview.ply",
+      "bytes": 93730562,
+      "sha256": "3797af3c9aa85e272c8aa5e49088364084205e3a402aa1c35efce3e339a09fca",
+      "crc32": "3a520b17"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A (16)_weld_welds.json",
+      "bytes": 625521,
+      "sha256": "0f6eae6da361c7a723991c3e01cdbcd7ac160c4d55cb0b242ce34e02849c227a",
+      "crc32": "96f0db40"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A (16)_weld_welds.ply",
+      "bytes": 716380,
+      "sha256": "af56b29781d8b0d6505d3c24190c4d1010bc1b749290859318cd76222c991a01",
+      "crc32": "2e1b940e"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A (16)_weld_workpiece.ply",
+      "bytes": 93014411,
+      "sha256": "08776fe7f3733de57a671883dc3da3fa8b8834f8d0e528b0d8319b0d7bef8d29",
+      "crc32": "bf7bc5d4"
+    },
+    {
+      "path": "标注数据20261004/真值/33-C1FR83A(16)/C1FR83A(16).png",
+      "bytes": 18445,
+      "sha256": "5ec5c9b7264ba11a40044c0734895052a95f08c6e62af0e5b881c808e0394d45",
+      "crc32": "79f5dca9"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/_C1FR83A (18)_GW1.pcd",
+      "bytes": 555532,
+      "sha256": "910e0dcfb0a040a7c8ade1c4f4096e71dcaf230db0ec1c643f4b7531d3e94b32",
+      "crc32": "5a14d9c0"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/_C1FR83A (18)_GW1_AllFaces.pcd",
+      "bytes": 34287814,
+      "sha256": "d1424c2f71da87ce30369a1dd86d5c4a5dd517d97b011b1552743d8028d0e322",
+      "crc32": "643fcb12"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A (18).stp",
+      "bytes": 651807,
+      "sha256": "fcf33938fea48372f03527d5a0825e705805d1619bff6384a7dbd481a03efed0",
+      "crc32": "0733b9fc"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A(18).png",
+      "bytes": 27243,
+      "sha256": "0d8b99101f6c3b4e6829694fd6fd899dd98259711aba5d0b97217e1cc9958b36",
+      "crc32": "2396b0a8"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A(18)_weld.cbf",
+      "bytes": 46712,
+      "sha256": "f8baad4f6c9058200a7cecb4b43c86ab21fb57f4c569afb30f188d7b5e4da1fd",
+      "crc32": "89a64435"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A(18)_weld.xlsx",
+      "bytes": 14131,
+      "sha256": "47f6dfbcae0d85f30323b261c17d2b8ba7ab205bcaa2d5dacf22ed1cc4a53081",
+      "crc32": "021ea069"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A(18)_weld.xlsx.jackc-review.json",
+      "bytes": 2457299,
+      "sha256": "43d3613de855f1bb051a44dc84e6191f16ec23699f000e3a40cfdc98690ac702",
+      "crc32": "523f79e3"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A(18)_weld_overview.ply",
+      "bytes": 74463979,
+      "sha256": "26fef7348110d28de4ec54d5753fffd3ef10a46e72e676574549e9659faaa3d4",
+      "crc32": "a9b31f16"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A(18)_weld_welds.json",
+      "bytes": 784269,
+      "sha256": "a34c882fba32edbba313fabfb477765a49c3976e85f8e90c9311331519128d5d",
+      "crc32": "38cbbbe6"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A(18)_weld_welds.ply",
+      "bytes": 897037,
+      "sha256": "051397d7760739bb6b4c2dcd26c5efb4041297c70fae1521669b0e23e8280b6b",
+      "crc32": "f12f2f6b"
+    },
+    {
+      "path": "标注数据20261004/真值/34-C1FR83A (18)/C1FR83A(18)_weld_workpiece.ply",
+      "bytes": 73567171,
+      "sha256": "8cea6494a42ba9a88cf4e7abc6c3ee2f7d0cbd6d1f38d4227845f80197ad683c",
+      "crc32": "a01d7a58"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/_tri-104-G9000-A9LB10A-C9FR96A_GW1.pcd",
+      "bytes": 82627,
+      "sha256": "7dddcd41ce8c24f2d2e4a9a37b4de3aac72e3cb12cf3ad5063e480eb89f87198",
+      "crc32": "abfda3bc"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/_tri-104-G9000-A9LB10A-C9FR96A_GW1_AllFaces.pcd",
+      "bytes": 4287544,
+      "sha256": "b598d0a244fd0fe62e20f65a154b90d1b05085449f4ab7dcfe5e55adc67b62a1",
+      "crc32": "cfeaa7ed"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A.png",
+      "bytes": 28714,
+      "sha256": "51bb31aeb8a966c19fbeefc330777b92362002b66b021f48582dbdcbeaf10a49",
+      "crc32": "50ff4993"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A.stp",
+      "bytes": 860510,
+      "sha256": "4918a680c7907eb633050cf2b58201dbec103e2a69e7b9670e5c6c2fb224a2a8",
+      "crc32": "30a2b586"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A_weld.cbf",
+      "bytes": 72148,
+      "sha256": "49ff551a4da7be3211f290cc12f969fd5e436373c724ec484f388ac96f5a7c2c",
+      "crc32": "56307741"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A_weld.xlsx",
+      "bytes": 17396,
+      "sha256": "96906c67014c97a6982797261f1c06cf5743c8f6d45c4f2a0441bc8e7ecd1990",
+      "crc32": "5453f233"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A_weld.xlsx.jackc-review.json",
+      "bytes": 401583,
+      "sha256": "c4218b613f6138c69e844ce914106dc34127c58c21b94a6d861545e82d140cb7",
+      "crc32": "ee928cdd"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A_weld_overview.ply",
+      "bytes": 84387241,
+      "sha256": "9895c24862935376805f232bf0e9f3576d5b231911e55896727149b6fb7d574f",
+      "crc32": "4e618354"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A_weld_welds.json",
+      "bytes": 298253,
+      "sha256": "e34b39bd235186800ff07b4d52c0d38324c54c7e8fd57dca78938bfd91407ea6",
+      "crc32": "79de773e"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A_weld_welds.ply",
+      "bytes": 328679,
+      "sha256": "96cbe2d5e6217b4310ff22824e16edd92885fc755de62d50f81d9c28f2dfa386",
+      "crc32": "34db371a"
+    },
+    {
+      "path": "标注数据20261004/真值/35-tri-104-G9000-A9LB10A-C9FR96A/tri-104-G9000-A9LB10A-C9FR96A_weld_workpiece.ply",
+      "bytes": 84058790,
+      "sha256": "4987860ec347d8b950e16419f3320d7fcd318c7503e6cf131029f66e9bf248f5",
+      "crc32": "fe0680f2"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/_tri-124-G9000-R2SS1A-S2GR21A_GW1.pcd",
+      "bytes": 441678,
+      "sha256": "2ea38bf5caf770595d4e23400619a3d65d5208ef2a97d2258529d69263433f56",
+      "crc32": "e91de06d"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/_tri-124-G9000-R2SS1A-S2GR21A_GW1_AllFaces.pcd",
+      "bytes": 28178585,
+      "sha256": "e4cda26e264e35020f807b152d92780bee092053bbb69a60ea32b9289efabe87",
+      "crc32": "4b2870fc"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A.png",
+      "bytes": 28489,
+      "sha256": "3b6b4eac3a6885271dc2d160e193bf1543c2ffc7e36f3c285233ed051182ebac",
+      "crc32": "e75644bc"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A.stp",
+      "bytes": 956825,
+      "sha256": "51a77e3cdf5ad8b8e0035d323b7ea15e51ad34449b9436906b4eaa7ea12afe1d",
+      "crc32": "aadf3cc8"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A_weld.cbf",
+      "bytes": 63856,
+      "sha256": "2ea40a79165f7d2b62f043af8c263a89969eb8e8de0c99eae4ed91e23a8ef15a",
+      "crc32": "6f7a6a48"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A_weld.xlsx",
+      "bytes": 13427,
+      "sha256": "1943c32dcf849e7a80189d2e04f026283daa9e3ab5d3662364a7c85cc22f1536",
+      "crc32": "2dad34fc"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A_weld.xlsx.jackc-review.json",
+      "bytes": 184986,
+      "sha256": "4933ada8d020cec074090d3b7c191b7eb419ba3d3ff78654a9babe1f73bb592e",
+      "crc32": "ad3abebf"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A_weld_overview.ply",
+      "bytes": 49024599,
+      "sha256": "c50a8f31a0e750925cc631df64abc3448b5ddd210b768910def1b0637736ad96",
+      "crc32": "f7e0419b"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A_weld_welds.json",
+      "bytes": 1320240,
+      "sha256": "9779bb968a03e15dca767ec79450ecd9bc014d75ee590746176adab025d46f27",
+      "crc32": "6b007151"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A_weld_welds.ply",
+      "bytes": 1508021,
+      "sha256": "52a252229230908e8be037709e8ca63962c6a5a4eb5b938ac154c0c827d37e05",
+      "crc32": "04985e38"
+    },
+    {
+      "path": "标注数据20261004/真值/36-tri-124-G9000-R2SS1A-S2GR21A/tri-124-G9000-R2SS1A-S2GR21A_weld_workpiece.ply",
+      "bytes": 47516807,
+      "sha256": "04adc607303fbb5b22a3edfa0a155b8c9d06630230c4510289719b27ca5b4a84",
+      "crc32": "ec7da5bc"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/_tri-134-G9000-R2SS1A-S2FR95A_GW1.pcd",
+      "bytes": 961329,
+      "sha256": "f62bf54ee42e8e914627a31f819b402cade0376df2b28b0728e981e7d21ba9ec",
+      "crc32": "37e065aa"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/_tri-134-G9000-R2SS1A-S2FR95A_GW1_AllFaces.pcd",
+      "bytes": 53106958,
+      "sha256": "298358339c9891d49ed44486eed781c4967ecd7cdca023a7eecd517e7f80cdf4",
+      "crc32": "f55d9314"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A.png",
+      "bytes": 34043,
+      "sha256": "f1fd4e9ba9c915e7a592a1e8eb6b039bbd127069e18d2000585eb704466708d6",
+      "crc32": "1b9d8b2d"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A.stp",
+      "bytes": 1989075,
+      "sha256": "26fb14a3a37752f444608187130571957fbc505e0e8a46cefd0d8f5191728058",
+      "crc32": "328cb398"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A_weld.cbf",
+      "bytes": 131264,
+      "sha256": "3ede618cbd4c6f83487a382c2b74f0d5cf3183221d46f361b030986d6ad50022",
+      "crc32": "8f5d8886"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A_weld.xlsx",
+      "bytes": 18930,
+      "sha256": "7ebe174a3fdeec26ddb66b2d2129152c26c7130e7dacb906da6d125e33961991",
+      "crc32": "0de76df6"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A_weld.xlsx.jackc-review.json",
+      "bytes": 207892,
+      "sha256": "926e147008920a6326dfa5d1e194dd481eee499c6326e6b78a3eebf20a5b9d8b",
+      "crc32": "4ec10b30"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A_weld_overview.ply",
+      "bytes": 110046478,
+      "sha256": "848521a9fc95773fd8f280e8aaaeeb837cfe01f7614c0ab33438da5e956d0300",
+      "crc32": "21ecc011"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A_weld_welds.json",
+      "bytes": 3035422,
+      "sha256": "d0b7d169496317fbf3f4d9bed88a3ecc2943d5e2693972a85614663bbfbb4d5a",
+      "crc32": "fff8fe12"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A_weld_welds.ply",
+      "bytes": 3453325,
+      "sha256": "e46305f01748ba2fa1fbabc24d3202d7ddacc668fd4b2d3511f76927ca25bd78",
+      "crc32": "66ea93da"
+    },
+    {
+      "path": "标注数据20261004/真值/37-tri-134-G9000-R2SS1A-S2FR95A/tri-134-G9000-R2SS1A-S2FR95A_weld_workpiece.ply",
+      "bytes": 106593382,
+      "sha256": "2ad30e3005d7e2d8481fe83e6de84b22e647a0693a0107dd4fab50a97db3f1a2",
+      "crc32": "2dc1bfa3"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/_tri-215-G9000-M2DK1T-C2FR360R_GW1.pcd",
+      "bytes": 228555,
+      "sha256": "1108d120b98c5870f544944a9b7f888afc90aea7fd25c0538ee288acefe3f2bf",
+      "crc32": "35e96343"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/_tri-215-G9000-M2DK1T-C2FR360R_GW1_AllFaces.pcd",
+      "bytes": 22447228,
+      "sha256": "6edef0b2a65447e5612685842d7a1692a53d8b38cbee3a5aedcce2ad53837abc",
+      "crc32": "632dbfba"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R.png",
+      "bytes": 28935,
+      "sha256": "c7cff371eb77d6fe73cc883cfdc8516c9c05adec266ba8184dd9cfdba84a0aab",
+      "crc32": "2015308a"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R.stp",
+      "bytes": 970058,
+      "sha256": "2a94928c6892c56b4f9c7d7ace11b5b82899e6947d4851cbc51e2a2dd779d244",
+      "crc32": "f6da8a6c"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R_weld.cbf",
+      "bytes": 32544,
+      "sha256": "a89907620dd5c049c6cb71a0a8f5ab6b0b9eba8e63b6bfa8bcf205f18a785351",
+      "crc32": "b43ba314"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R_weld.xlsx",
+      "bytes": 12351,
+      "sha256": "d683b5a86e1bb3d2844bc85bb7666d6399bd0a59c2f623499ccb96605c4e3d97",
+      "crc32": "04edafdf"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R_weld.xlsx.jackc-review.json",
+      "bytes": 122866,
+      "sha256": "7bc0681953f597a25606317ddbee52e8c05a6f5200f8572cdfb7be2462a9d99f",
+      "crc32": "520af5e3"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R_weld_overview.ply",
+      "bytes": 89543054,
+      "sha256": "3a7b393748f367926d6f726084fb696807af9afe9f1784b4a560e0ca13b3a1a6",
+      "crc32": "a6aab074"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R_weld_welds.json",
+      "bytes": 1295974,
+      "sha256": "37443e088c14921588c5beaadcb7742f71d302100df1e832da466cb03b50f496",
+      "crc32": "952832b9"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R_weld_welds.ply",
+      "bytes": 1482440,
+      "sha256": "3244c884f52abda5bc5abcfd9752d0b4a1cecd8d8fe7c918ed816b2cba3d9972",
+      "crc32": "df8c040c"
+    },
+    {
+      "path": "标注数据20261004/真值/38-tri-215-G9000-M2DK1T-C2FR360R/tri-215-G9000-M2DK1T-C2FR360R_weld_workpiece.ply",
+      "bytes": 88060843,
+      "sha256": "b5c03c845c9940e68999af41853cd9ffcf6c5ec7d28a9ee0f1642fa2d39c65fe",
+      "crc32": "063a064a"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/_tri-825-G9000-H1DK8B-C1TB263C_GW1.pcd",
+      "bytes": 1660055,
+      "sha256": "1ae4efc16df07bfe4448dc26b7ba495a2eb001231504aa39550f23b73bf616db",
+      "crc32": "ac04e09f"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/_tri-825-G9000-H1DK8B-C1TB263C_GW1_AllFaces.pcd",
+      "bytes": 81525798,
+      "sha256": "1cae515bcf3fc274e27b9bbb2070ec1b54a554dff6103537afc36036c5dc8a56",
+      "crc32": "b4b3e29c"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C.png",
+      "bytes": 28634,
+      "sha256": "ab1ae6432f38818c6c3f30518ee528c06475439b0214e598dcbe9a736dd50313",
+      "crc32": "b25d74fb"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C.stp",
+      "bytes": 935725,
+      "sha256": "daedd4c7033d70a38860ca554060a0bffce0a1673a8247f90b452279bde25744",
+      "crc32": "c919999d"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C_weld.cbf",
+      "bytes": 86696,
+      "sha256": "2a9f4cf1320a4cdc73a7c3d77b4022c0940e04192a11d02757485ea216d509f6",
+      "crc32": "c19b7fd3"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C_weld.xlsx",
+      "bytes": 20495,
+      "sha256": "7062a23f3bb6d9f52b6cf60a1408ebe505ae91aaa65336b180dc5b3251064f45",
+      "crc32": "76cc09b1"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C_weld.xlsx.jackc-review.json",
+      "bytes": 364042,
+      "sha256": "fb58fcd97b84f94c8b3100d7953ecb3318a994a89e1a423425412117c3c4e218",
+      "crc32": "e7d1aec6"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C_weld_overview.ply",
+      "bytes": 57056181,
+      "sha256": "07c0343229c7eeca513ce97f2afa1b3e1f15e3ce5d0729af94a8f964c4ee5930",
+      "crc32": "978e5588"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C_weld_welds.json",
+      "bytes": 2087358,
+      "sha256": "966ed7219198464985b17b5be1f599c160b39b8260e17fa622367d1007315fd1",
+      "crc32": "62bd1a61"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C_weld_welds.ply",
+      "bytes": 2364463,
+      "sha256": "10fbf9907e433b089183eb715b52d9289d29ce0ad5c7c0862d0b8656c2eb9fe9",
+      "crc32": "f4ffccce"
+    },
+    {
+      "path": "标注数据20261004/真值/39-tri-825-G9000-H1DK8B-C1TB263C/tri-825-G9000-H1DK8B-C1TB263C_weld_workpiece.ply",
+      "bytes": 54691947,
+      "sha256": "84892a7c9df414f9537f116d640f273bab50f681f52cd7ff40a47e508baa4191",
+      "crc32": "bd1de9ac"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C-0928.png",
+      "bytes": 13517,
+      "sha256": "0f22e261f2e4418135f20714410d7e972a115d28d9de14ceb84637f96ad0a111",
+      "crc32": "bce34910"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C-0928_weld.cbf",
+      "bytes": 104812,
+      "sha256": "cd28dd6a55b572dc97184e8cb864082821778076b13ba0b096ad377041226ae1",
+      "crc32": "9313d5c1"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C-0928_weld.xlsx",
+      "bytes": 21506,
+      "sha256": "48cf82885fa042b87d516b198122280654a1f4aa7d40c9a6e12570e3afd6ed64",
+      "crc32": "3861b0ee"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C-0928_weld.xlsx.jackc-review.json",
+      "bytes": 103732,
+      "sha256": "ae069e7bfc302fa7a5b50646224e46597128068058ad1e7b39f58ff301d43dee",
+      "crc32": "e7acc4fd"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C-0928_weld_overview.ply",
+      "bytes": 103053690,
+      "sha256": "a43dfd2b54d71f36456d420d29cf06a395140ee165bbe9bffb3cc1bc65221b58",
+      "crc32": "e66c7fa4"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C-0928_weld_welds.json",
+      "bytes": 794832,
+      "sha256": "59fb12df97bf95037dc948820f110baf31d36a17161e021a2470f258de4461ca",
+      "crc32": "7152620e"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C-0928_weld_welds.ply",
+      "bytes": 913354,
+      "sha256": "657dfb9e8cc8e368d9db25921c5b0ce0ef9f77df20dcf82e22dae2f31624d174",
+      "crc32": "a66e5006"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C-0928_weld_workpiece.ply",
+      "bytes": 102140565,
+      "sha256": "a2d266148f50d8639fd221c73a5763a11684d7f8d9fe4bbf92f6501e345d9e4e",
+      "crc32": "2352408c"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/161-SR2C.stp",
+      "bytes": 297293,
+      "sha256": "ae9cab652a770c6a0a65b8237a5fb5e602a504d58bb1b9f1adfd3d1343f22be2",
+      "crc32": "47abcc12"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/_161-SR2C_GW1.pcd",
+      "bytes": 306886,
+      "sha256": "918f921bc8ec817f73bdf69e15edda9ae3dff65d44f7dbf88193b41267983c09",
+      "crc32": "d97f0804"
+    },
+    {
+      "path": "标注数据20261004/真值/4-161-SR2C-0928/_161-SR2C_GW1_AllFaces.pcd",
+      "bytes": 15873218,
+      "sha256": "c61cdba1de30fee108788e57cd535ba4896804f19e80ddf18b3d4d3f5ee4f74d",
+      "crc32": "ff6a59c6"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/_tri-825-G9000-H1DK8B-C1TB263E_GW1.pcd",
+      "bytes": 1355990,
+      "sha256": "bd64f7594d9c12c266f8cd45a2ef6ba636c440fbd1f9943cefd60731620dc1dd",
+      "crc32": "0c849fbf"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/_tri-825-G9000-H1DK8B-C1TB263E_GW1_AllFaces.pcd",
+      "bytes": 70608197,
+      "sha256": "24bf6ae83be85666361a95f9ec619640bb557e416b79d3e95ad585242423511e",
+      "crc32": "27d40b11"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E.png",
+      "bytes": 21776,
+      "sha256": "e052ea34cf9a0d46ab49c18eb7762a32b34bab0c1e421a4baec0d267e6945c4f",
+      "crc32": "a03cb20e"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E.stp",
+      "bytes": 826030,
+      "sha256": "dc2b9b1fed78ba9cd471c40be76cef698c01b90e0a482c98faeb031e25c81251",
+      "crc32": "648bec57"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E_weld.cbf",
+      "bytes": 41492,
+      "sha256": "13e53103033bce079af741cb6027b13a2bce1708ad5b4390dc269369d15b8b09",
+      "crc32": "1f762900"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E_weld.xlsx",
+      "bytes": 12884,
+      "sha256": "e5b71826ecfb664796eb1b7fba5384b8ce4c03a8a63ec652f83aaf2aa9766acb",
+      "crc32": "c716c11f"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E_weld.xlsx.jackc-review.json",
+      "bytes": 103952,
+      "sha256": "cc12fa744d4c42a610d3787bf95e213a324cb44c501b32d7cc62a5d3332bcf3c",
+      "crc32": "c618f76e"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E_weld_overview.ply",
+      "bytes": 51889941,
+      "sha256": "cf1c0d9bfa7b22e4365d58ef23181e4429ed5ef4edcc2a86908737b52afc9edb",
+      "crc32": "f3d616f3"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E_weld_welds.json",
+      "bytes": 1708495,
+      "sha256": "e8858b63b010bf559b11096ba3102d72684358e3c5a4e0db52ed72603ba46ecc",
+      "crc32": "c3092fc5"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E_weld_welds.ply",
+      "bytes": 1939895,
+      "sha256": "48ffe86f0f1c1d8fde704e9f6268accce19be78154ad76abaf0ef938c1372c97",
+      "crc32": "535cd17e"
+    },
+    {
+      "path": "标注数据20261004/真值/40-tri-825-G9000-H1DK8B-C1TB263E/tri-825-G9000-H1DK8B-C1TB263E_weld_workpiece.ply",
+      "bytes": 49950275,
+      "sha256": "ba364ed89aa60c25c3a6cc99503cc96dc11b3021650e6af5d347c2e7921fb0a9",
+      "crc32": "a0fb7bfb"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A-0928.png",
+      "bytes": 21837,
+      "sha256": "bed992fada73edab8d18c68f328c5f4f7870201a98098930c4a1646969f222da",
+      "crc32": "c79514e3"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A-0928_weld.cbf",
+      "bytes": 174032,
+      "sha256": "62374a7b3c8bd8ab9bc150b281f4fd99f5f67f5be18c009dbec0b5e4d15cb378",
+      "crc32": "039a7169"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A-0928_weld.xlsx",
+      "bytes": 30752,
+      "sha256": "bcf13d5941347046af12a84a389f1d063a6f10f39f98748be53f23802c7a86b2",
+      "crc32": "78aba45d"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A-0928_weld.xlsx.jackc-review.json",
+      "bytes": 199081,
+      "sha256": "ca37b18c678fcd94f5d484a59e30595bdd1e9b74653945f36ef9e2b03e90c819",
+      "crc32": "5a3ebdd3"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A-0928_weld_overview.ply",
+      "bytes": 57447917,
+      "sha256": "dab77682c2d74615aba8b79484ed5f1f0e2c4a908ae31c349818c34b3ed058ea",
+      "crc32": "3f13192d"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A-0928_weld_welds.json",
+      "bytes": 885908,
+      "sha256": "a4df9e9dff02a8ab767f0b084b513c6d81d4b0f10831bd26bc422ed42d684eb9",
+      "crc32": "f32d9c4c"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A-0928_weld_welds.ply",
+      "bytes": 1006170,
+      "sha256": "0b103cd2d8f5d6018861e2d47399e4dd5025af9ff60022d02b8f8141671732f5",
+      "crc32": "1b266870"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A-0928_weld_workpiece.ply",
+      "bytes": 56441976,
+      "sha256": "7cfce1ae6e647de078c60910771842e708cb1d1e45b8c64b7db4c361b02dacad",
+      "crc32": "f248cb1d"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/182-FR45A.stp",
+      "bytes": 467895,
+      "sha256": "4f1660ca5e0bb79163954ca54ffc8c2057fb4cba33ecdf593014c35a114a1871",
+      "crc32": "ba61cac0"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/_182-FR45A_GW1.pcd",
+      "bytes": 147384,
+      "sha256": "b644295dc70302644dbc21f22735ddf81f628b0f916afbc5ad2815305451c3e5",
+      "crc32": "7eb16813"
+    },
+    {
+      "path": "标注数据20261004/真值/5-182-FR45A-0928/_182-FR45A_GW1_AllFaces.pcd",
+      "bytes": 8664746,
+      "sha256": "f1d12e4ce4c3ba893736cd5e05864e0c0f9ea59dc9519459bed6a05b687a97a8",
+      "crc32": "b4d22e16"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/227-FR146C-0928.png",
+      "bytes": 19577,
+      "sha256": "6e350a1a7c9f7418d639eda254635510a1059ddbd3f2f24f21d138b854ee31f9",
+      "crc32": "2449e5d9"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/227-FR146C-0928_weld.cbf",
+      "bytes": 37480,
+      "sha256": "5d898b3340a5af9da3b3b945f54e4db8d4aad44d47b95ec01c6ea94532f5a0eb",
+      "crc32": "ae245f2a"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/227-FR146C-0928_weld.xlsx",
+      "bytes": 14534,
+      "sha256": "96fdbcc92b004018d7bd3394801c7d3ad4e1202afda04b73607b479d7001bdc5",
+      "crc32": "dc51688c"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/227-FR146C-0928_weld_overview.ply",
+      "bytes": 124388512,
+      "sha256": "1ff95b857784b77ed43b940169c80f6e0dd7835f7de79a7edd28e32d0d2b53d3",
+      "crc32": "aa25f991"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/227-FR146C-0928_weld_welds.json",
+      "bytes": 399438,
+      "sha256": "d2cdd6ea9233c35507cb57659d17b6eb6f67212903f9b94487aeba3e542243f9",
+      "crc32": "11bde889"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/227-FR146C-0928_weld_welds.ply",
+      "bytes": 459318,
+      "sha256": "9ecea748790d8e6079e5dba989369cbf11fc654a927a1f38e4dc98b76d50c0fe",
+      "crc32": "3b2a9000"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/227-FR146C-0928_weld_workpiece.ply",
+      "bytes": 123929422,
+      "sha256": "0833b9892f5837b803db0c713887f8afc57793e614622c1994f81d3ab07f02a0",
+      "crc32": "17825de7"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/227-FR146C.stp",
+      "bytes": 284317,
+      "sha256": "20775b0f00cd820a049275bd659065638327b1f35b2b276dfade2be031e89e5f",
+      "crc32": "26dd83e0"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/_227-FR146C_GW1.pcd",
+      "bytes": 345572,
+      "sha256": "82dceba629877c2d9ce65b6ca075211fd97d0204c9204ad2904472b542fd4a0f",
+      "crc32": "077addcc"
+    },
+    {
+      "path": "标注数据20261004/真值/6-227-FR146C-0928/_227-FR146C_GW1_AllFaces.pcd",
+      "bytes": 15920778,
+      "sha256": "9d9cb442c3756d0dce38d7f455f44532db8d53723aa2d27abcfa9fbe7a89a5b3",
+      "crc32": "b4ad36e8"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A-0929.png",
+      "bytes": 26561,
+      "sha256": "bd6a74560e8245a245cb12eda65300bb13dcd45b553608637c0759450bed4665",
+      "crc32": "df29b452"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A-0929_weld.cbf",
+      "bytes": 404320,
+      "sha256": "2a15b5820b9d9495a0faa985aa10c9e22be36fdf3b96f58d88589665d559dd41",
+      "crc32": "6763a40a"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A-0929_weld.xlsx",
+      "bytes": 56866,
+      "sha256": "f88c0b3dfa1b44f11d292e97d96901990b9d3e82104eee8eb6db9407cce02bdf",
+      "crc32": "226f0381"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A-0929_weld.xlsx.jackc-review.json",
+      "bytes": 505063,
+      "sha256": "8a7258c91ce29512db1c7576fdd0fae31d3953fcb78f7d9d918916c69efe977c",
+      "crc32": "523fc353"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A-0929_weld_overview.ply",
+      "bytes": 66913662,
+      "sha256": "bac5990720ae0649dda9db3c45c3fd04366206bf4a4098491a6c23ab9cfa8309",
+      "crc32": "f4d71cfa"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A-0929_weld_welds.json",
+      "bytes": 3839459,
+      "sha256": "fdac7ddc1f6229b0db50f50716b128de90c64f2ec47490e1a10270605e088b9a",
+      "crc32": "66b88662"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A-0929_weld_welds.ply",
+      "bytes": 4383073,
+      "sha256": "35204480189204f25253f5d15933d6b5195fb08efbb06dbee46d8e65818e9f6f",
+      "crc32": "abdb8ed5"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A-0929_weld_workpiece.ply",
+      "bytes": 62530818,
+      "sha256": "a853f563478907eaea12c84d1fc3087f545424f5710d23dbe0ba85641eaef6d4",
+      "crc32": "fbee046b"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/425-ET3A.stp",
+      "bytes": 542050,
+      "sha256": "d89d86305e49110335766806df16befa366d4311d4ce90f7425acab602222a56",
+      "crc32": "719c57ea"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/_425-ET3A_GW1.pcd",
+      "bytes": 352421,
+      "sha256": "d6f85395b412e62a277c969c53cb68d3d47de4517d5231e99bba94a4f66ad4d3",
+      "crc32": "6a8afb6e"
+    },
+    {
+      "path": "标注数据20261004/真值/7-425-ET3A-0929/_425-ET3A_GW1_AllFaces.pcd",
+      "bytes": 4974721,
+      "sha256": "7ccb59832618b5fe5d23ba561e6f5b0447453186fcc847699fbb68893fa659fd",
+      "crc32": "4f95373b"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B-0929.png",
+      "bytes": 14302,
+      "sha256": "0fa14b04d983e18f353a789ede0297dacf91894d60b4ab3db981ab88be6a16e9",
+      "crc32": "4eae5326"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B-0929_weld.cbf",
+      "bytes": 122140,
+      "sha256": "499a5d628cb6e606053bf8a2b2a44ff7e0776bd90a06b07dd67e19e51a9ada20",
+      "crc32": "421a811b"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B-0929_weld.xlsx",
+      "bytes": 25045,
+      "sha256": "9212e60ee96e3360e9e4c6796b2f37d28ee3b87ae2184949dd87f67304b956db",
+      "crc32": "d87c038b"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B-0929_weld.xlsx.jackc-review.json",
+      "bytes": 145220,
+      "sha256": "ecbecc9f0ebeda311da62e405f2800eb8fb29480f3feea53b8bfaa2ac9da1b77",
+      "crc32": "2911f817"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B-0929_weld_overview.ply",
+      "bytes": 73597412,
+      "sha256": "d91ace873d1c8d1d244527d117bd50cc8e5facf038348157ce0d5b6694ac0914",
+      "crc32": "78ec6edb"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B-0929_weld_welds.json",
+      "bytes": 753483,
+      "sha256": "c624efe1e742e26ca8745f39cca559a052940ee093c93264147269bccfd12de8",
+      "crc32": "557d0997"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B-0929_weld_welds.ply",
+      "bytes": 860220,
+      "sha256": "7f9dcd1aa6fe7f0a6d95585e54a15420c2bda4a892d32bc07c1f8372ed790938",
+      "crc32": "fb70d65e"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B-0929_weld_workpiece.ply",
+      "bytes": 72737421,
+      "sha256": "b2963157072bdbb05378df263c489a698f833771a9df8b1bd41eb7d9fe66cef5",
+      "crc32": "238a8630"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/435-DK6B.stp",
+      "bytes": 257482,
+      "sha256": "4643c39fc30d0cb5cb8d65d04b2c344a52ba83c62b688f0e1dc1bad4773cd387",
+      "crc32": "021d3f32"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/_435-DK6B_GW1.pcd",
+      "bytes": 217448,
+      "sha256": "895208acf488cc8b25658c8da9f82ea8e415e5731c64181882cc170280a96340",
+      "crc32": "1f6b41b7"
+    },
+    {
+      "path": "标注数据20261004/真值/8-435-DK6B-0929/_435-DK6B_GW1_AllFaces.pcd",
+      "bytes": 12523022,
+      "sha256": "b4b527150fbb683a79d3d2918f02801c9c937b7d1ce8d66c90e4e0c5e7a226a0",
+      "crc32": "1d76767a"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A-0929.png",
+      "bytes": 8367,
+      "sha256": "28ff3a4eb330dcb228fd3b7be3d7d7db80d85a5a4ecee392f313d2646efe9a24",
+      "crc32": "81c2dac1"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A-0929_weld.cbf",
+      "bytes": 96488,
+      "sha256": "b8826856d3432ab7d52d1924202f3f7055955600636b43a43396bf0959c624ae",
+      "crc32": "f79895d8"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A-0929_weld.xlsx",
+      "bytes": 24193,
+      "sha256": "d574b83ac578532d863a639f5c073469b58b147792b43819bd17449a216c7fa8",
+      "crc32": "11b303de"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A-0929_weld.xlsx.jackc-review.json",
+      "bytes": 134848,
+      "sha256": "d90c5a22c6abd813691c1ee704c3687f24b9ee4c50d908f28c438028ec71bf3e",
+      "crc32": "a5ba8c1c"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A-0929_weld_overview.ply",
+      "bytes": 58091118,
+      "sha256": "8d78afa855a69608727cf2a1ccdad2cc8540be0312eccfadb3ca75b5e4623c05",
+      "crc32": "fe14d24c"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A-0929_weld_welds.json",
+      "bytes": 1314286,
+      "sha256": "0e8ba699f29967b4cc7ac8daa552935ca8ada478921da00a686ef3fc5ced0a43",
+      "crc32": "6fbec560"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A-0929_weld_welds.ply",
+      "bytes": 1512772,
+      "sha256": "deca642e5cb24d33e4e271d7ef437ae0069b3feb81bcfc58b767d02a02453cd2",
+      "crc32": "fc867906"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A-0929_weld_workpiece.ply",
+      "bytes": 56578575,
+      "sha256": "9425f964f1d929305e095915210f58911640a2fef57d6358999207a4b8337608",
+      "crc32": "4cb3aef7"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/442-DK1A.stp",
+      "bytes": 262193,
+      "sha256": "0e0f8279af1a7340d959ba547789607868febb2343d2b281a29c47b73bba4a86",
+      "crc32": "b9a2e0b8"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/_442-DK1A_GW1.pcd",
+      "bytes": 330521,
+      "sha256": "8cb1ece6e52a71cb5e32a7023700ebac256695768ef8149b2353d888cd760b06",
+      "crc32": "3a32bf84"
+    },
+    {
+      "path": "标注数据20261004/真值/9-442-DK1A-0929/_442-DK1A_GW1_AllFaces.pcd",
+      "bytes": 8067288,
+      "sha256": "7c0ceaa30ad1977f1e31b4308f3c483ac705eaf3c0531a2d05a45e9e6c6ccf35",
+      "crc32": "94e3b5ee"
+    }
+  ],
+  "payload": [
+    {
+      "name": "9月20日.rar",
+      "bytes": 889924675,
+      "sha256": "754174ea7fa24299ac8b182e8e1b0f4e8c8d2e28c08eb909493198e84b22d512",
+      "mtime_ns": 1791371850267283800
+    },
+    {
+      "name": "标注数据20261004.zip",
+      "bytes": 2037074114,
+      "sha256": "64181d4d216fdc8b9b90dfeba9727e0ba3b5d69ef58385da6b79dbb91c98ddeb",
+      "mtime_ns": 1791090749578546200
+    },
+    {
+      "name": "焊缝导出数据释义.pdf",
+      "bytes": 659574,
+      "sha256": "71a35c97c3f8d7b48882a650e551b66e79065784dbf23299587d4858a4cd7b3f",
+      "mtime_ns": 1790731608226499200
+    }
+  ],
+  "archive_local_validation": {
+    "rar": "all member SHA256 and size verified",
+    "zip": "all member CRC32 and size verified"
+  }
+}
